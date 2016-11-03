@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Tornadoes News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/earth_climate/tornadoes/</link>
+		<description>Tornado news and research. How does a tornado develop? Why are there so many tornadoes in tornado alley? Read the news on tornadoes.</description>
+		<language>en-us</language>
+		<pubDate>Mon, 23 May 2016 10:46:53 EDT</pubDate>
+		<lastBuildDate>Mon, 23 May 2016 10:46:53 EDT</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>Tornadoes News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/earth_climate/tornadoes/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		<atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://rss.sciencedaily.com/earth_climate/tornadoes.xml" type="application/rss+xml" />
+		<item>
+			<title>Chile quake at epicenter of expanding disaster, failure data repository</title>
+			<link>https://www.sciencedaily.com/releases/2016/04/160426162613.htm</link>
+			<description>A research team has made available a comprehensive set of data from the 2010 Chile earthquake to provide researchers, engineers, codemakers and others in quake-prone areas worldwide a powerful tool to help them improve resilience to future seismic events. <!-- more --></description>
+			<pubDate>Tue, 26 Apr 2016 16:26:13 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/04/160426162613.htm</guid>
+		</item>
+		<item>
+			<title>Extreme tornado outbreaks have become more common, says study</title>
+			<link>https://www.sciencedaily.com/releases/2016/03/160302181731.htm</link>
+			<description>Most death and destruction inflicted by tornadoes in North America occurs during outbreaks -- large-scale weather events that can last one to three days and span huge regions. Now, a new study shows that the average number of tornadoes in these outbreaks has risen since 1954, and that the chance of extreme outbreaks -- tornado factories like the one in 2011 -- has also increased. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302181731.jpg" height="200" width="300" />
+			<pubDate>Wed, 02 Mar 2016 18:17:31 EST</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/03/160302181731.htm</guid>
+		</item>
+		<item>
+			<title>First building code improvements adopted based on Joplin tornado study</title>
+			<link>https://www.sciencedaily.com/releases/2015/12/151207165743.htm</link>
+			<description>Protecting schools and their associated high-occupancy buildings from the most violent tornadoes is the goal of the first approved building code changes based on a technical investigation into the impacts of the deadly tornado that struck Joplin, Mo., on May 22, 2011. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/12/151207165743.jpg" height="225" width="300" />
+			<pubDate>Mon, 07 Dec 2015 16:57:43 EST</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2015/12/151207165743.htm</guid>
+		</item>
+		<item>
+			<title>Predicting tornadoes months or even seasons in advance</title>
+			<link>https://www.sciencedaily.com/releases/2015/09/150911140716.htm</link>
+			<description>A new model could help forecast tornado activity months in advance, experts say. It uses large-scale atmospheric variables like those used by weather forecasters. But instead of looking to predict a tornado on any specific day, it looks at variations in monthly and seasonal tornado activity relative to changes in atmospheric conditions over the same period. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/09/150911140716.jpg" height="224" width="300" />
+			<pubDate>Fri, 11 Sep 2015 14:07:16 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2015/09/150911140716.htm</guid>
+		</item>
+	</channel>
+</rss>

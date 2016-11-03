@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA 360 Vodcasts</title>
+ <description>Join hosts Molly McKinney and Caleb Kinchlow as they take a 360-degree look at how NASA has changed life on Earth.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss" />
+ <language>en-us</language>
+ <image> <url>http://www.nasa.gov/733522main_360logoitunes1400.png</url>
+ <title>NASA 360 Vodcasts</title>
+ <link>http://www.nasa.gov/</link>
+</image>
+ <copyright>no copyright</copyright>
+ <managingEditor>thomas.i.shortridge@nasa.gov</managingEditor>
+ <webMaster>thomas.i.shortridge@nasa.gov</webMaster>
+ <itunes:subtitle>NASA 360 Vodcast</itunes:subtitle>
+ <itunes:category text="Science &amp; Medicine" />
+ <itunes:keywords>NASA 360, NASA, space, aeronautics, space shuttle, aliens, moon, galaxy, technology, exploration, cool, rocket, jet, space stati</itunes:keywords>
+ <itunes:image href="http://www.nasa.gov/733522main_360logoitunes1400.png" />
+ <itunes:author>National Aeronautics and Space Administration (NASA)</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>jim.wilson@nasa.gov</itunes:email>
+ <itunes:name>Brian Dunbar</itunes:name>
+</itunes:owner>
+ <item> <title>NASA 360 Talks - Exploring Mars</title>
+ <link>http://www.nasa.gov/content/nasa-360-talks-exploring-mars</link>
+ <description>NASA 360 Talks - Exploring Mars</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nasa_360_talks_-_jim_green_at_lpsc_cut_4-15-15_youtube_settings_final.mp4" length="78344653" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-talks-exploring-mars</guid>
+ <pubDate>Thu, 16 Apr 2015 14:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Talks - From Ground to Space</title>
+ <link>http://www.nasa.gov/content/nasa-360-talks-from-ground-to-space</link>
+ <description>NASA 360 Talks - From Ground to Space</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nasa_360_talks_-_from_ground_to_space.mp4" length="121118967" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-talks-from-ground-to-space</guid>
+ <pubDate>Wed, 08 Apr 2015 14:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Talks - Roadmaps</title>
+ <link>http://www.nasa.gov/content/nasa-360-talks-roadmaps</link>
+ <description>NASA 360 Talks - Roadmaps</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/360_talks_-_roadmaps.mp4" length="47667663" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-talks-roadmaps</guid>
+ <pubDate>Thu, 19 Mar 2015 14:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Talks - Titan Submarine</title>
+ <link>http://www.nasa.gov/mediacast/nasa-360-talks-titan-submarine</link>
+ <description>NASA 360 Talks - Titan Submarine</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nasa_360_talks_-_titan_submarine_cut_3-4-15.mp4" length="88462580" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/nasa-360-talks-titan-submarine</guid>
+ <pubDate>Thu, 05 Mar 2015 09:01 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Talks - Super Ball Bot</title>
+ <link>http://www.nasa.gov/mediacast/nasa-360-talks-super-ball-bot</link>
+ <description>NASA 360 Talks- Super Ball Bot</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/atoms/video/nasa_360_talks_-_super_ball_bots.mp4" length="84648729" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/mediacast/nasa-360-talks-super-ball-bot</guid>
+ <pubDate>Sun, 22 Feb 2015 12:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Presents - Possibilities</title>
+ <link>http://www.nasa.gov/content/nasa-360-presents-possibilities</link>
+ <enclosure url="http://www.nasa.gov/sites/default/files/nasa_360_-_sacd_cut_2015-01-22_youtube_settingsfinal.mp4" length="217369137" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-presents-possibilities</guid>
+ <pubDate>Thu, 05 Feb 2015 03:43 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 - The Future of Human Space Exploration</title>
+ <link>http://www.nasa.gov/content/nasa-360-the-future-of-human-space-exploration</link>
+ <description>NASA 360 - The Future of Human Space Exploration</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/nasa_360_-_fohse.mp4" length="453697756" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-the-future-of-human-space-exploration</guid>
+ <pubDate>Wed, 12 Nov 2014 11:48 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 - The Future of Human Space Exploration (trailer)</title>
+ <link>http://www.nasa.gov/content/nasa-360-the-future-of-human-space-exploration-trailer</link>
+ <description>NASA 360 - The Future of Human Space Exploration (trailer)</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/nasa_360_fohse_trailer.mp4" length="64131979" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-the-future-of-human-space-exploration-trailer</guid>
+ <pubDate>Tue, 04 Nov 2014 12:47 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Presents - From Science Fiction to Science Fact</title>
+ <link>http://www.nasa.gov/content/nasa-360-presents-from-science-fiction-to-science-fact</link>
+ <description>NASA 360 Presents - From Science Fiction to Science Fact</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/niac_promo_cut_10-01-14youtube_settingsfinal.mp4" length="125309862" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-presents-from-science-fiction-to-science-fact</guid>
+ <pubDate>Tue, 28 Oct 2014 08:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+ <item> <title>NASA 360 Presents - STMD</title>
+ <link>http://www.nasa.gov/content/nasa-360-presents-stmd</link>
+ <description>NASA 360 Presents - STMD</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/gazarik_video_cut_10-16-14final-v2.mp4" length="69730232" type="video/mp4" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/nasa-360-presents-stmd</guid>
+ <pubDate>Thu, 16 Oct 2014 14:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/nasa360_vodcast.rss">NASA 360 Vodcasts</source>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+    <channel>
+        <title>Threatpost | The first stop for security news</title>
+        <atom:link href="https://threatpost.com/feed/" rel="self" type="application/rss+xml" />
+        <link>https://threatpost.com</link>
+        <description>The First Stop For Security News</description>
+        <lastBuildDate>Thu, 19 May 2016 15:32:39 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>https://wordpress.org/?v=4.5.2</generator>
+        <image>
+            <url>https://threatpost.com/wp-content/themes/threatpost/images/site-icon.png</url>
+            <title>Threatpost | The first stop for security news</title>
+            <link>https://threatpost.com</link>
+            <width>32</width>
+            <height>32</height>
+        </image>
+        <atom:link rel="hub" href="http://pubsubhubbub.appspot.com"/>
+        <atom:link rel="hub" href="http://pubsubhubbub.superfeedr.com"/>
+        <atom:link rel="hub" href="http://flipboard.threatpost.com"/>
+        <atom:link rel="hub" href="http://flipboard.superfeedr.com"/>
+        <atom:link rel="hub" href="http://threatpost.superfeedr.com"/>
+        <item>
+            <title>Ubiquiti Networks Gear Targeted By Worm</title>
+            <link>https://threatpost.com/ubiquiti-networks-gear-targeted-by-worm/118185/</link>
+            <comments>https://threatpost.com/ubiquiti-networks-gear-targeted-by-worm/118185/#respond</comments>
+            <pubDate>Thu, 19 May 2016 14:14:11 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tom Spring]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Cloud Security]]>
+            </category>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[computer worm]]>
+            </category>
+            <category>
+                <![CDATA[Ubiquiti Networks]]>
+            </category>
+            <category>
+                <![CDATA[Worm]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118185</guid>
+            <description>
+                <![CDATA[Ubiquiti Networks is fending off a stubborn worm targeting its networking equipment running outdated AirOS firmware. ]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/ubiquiti-networks-gear-targeted-by-worm/118185/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Master Decryption Key Released for TeslaCrypt Ransomware</title>
+            <link>https://threatpost.com/master-decryption-key-released-for-teslacrypt-ransomware/118179/</link>
+            <comments>https://threatpost.com/master-decryption-key-released-for-teslacrypt-ransomware/118179/#respond</comments>
+            <pubDate>Thu, 19 May 2016 13:41:37 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Michael Mimoso]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            </category>
+            <category>
+                <![CDATA[Bleeping Computer]]>
+            </category>
+            <category>
+                <![CDATA[Encryption]]>
+            </category>
+            <category>
+                <![CDATA[encryption key]]>
+            </category>
+            <category>
+                <![CDATA[Lawrence Abrams]]>
+            </category>
+            <category>
+                <![CDATA[malware]]>
+            </category>
+            <category>
+                <![CDATA[master key]]>
+            </category>
+            <category>
+                <![CDATA[ransomware]]>
+            </category>
+            <category>
+                <![CDATA[ransomware decryptor]]>
+            </category>
+            <category>
+                <![CDATA[Teslacrypt]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118179</guid>
+            <description>
+                <![CDATA[The criminals behind the TeslaCrypt ransomware have closed up shop and publicly released the master decryption key that unlocks files encrypted by the malware. ]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/master-decryption-key-released-for-teslacrypt-ransomware/118179/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>2012 LinkedIn Breach Just Got a Lot Worse: 117 Million New Logins For Sale</title>
+            <link>https://threatpost.com/2012-linkedin-breach-just-got-a-lot-worse-117-million-new-logins-for-sale/118173/</link>
+            <comments>https://threatpost.com/2012-linkedin-breach-just-got-a-lot-worse-117-million-new-logins-for-sale/118173/#respond</comments>
+            <pubDate>Wed, 18 May 2016 16:47:38 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tom Spring]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Cloud Security]]>
+            </category>
+            <category>
+                <![CDATA[Hacks]]>
+            </category>
+            <category>
+                <![CDATA[Privacy]]>
+            </category>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[bad passwords]]>
+            </category>
+            <category>
+                <![CDATA[Dark Web]]>
+            </category>
+            <category>
+                <![CDATA[LinkedIn]]>
+            </category>
+            <category>
+                <![CDATA[LinkedIn data breach]]>
+            </category>
+            <category>
+                <![CDATA[SHA1]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118173</guid>
+            <description>
+                <![CDATA[More than 100 million LinkedIn usernames and passwords for sale on dark web as 2012 breach comes back to haunt business-savvy social network. ]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/2012-linkedin-breach-just-got-a-lot-worse-117-million-new-logins-for-sale/118173/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Scope of Gaping Android Security Hole Grows</title>
+            <link>https://threatpost.com/scope-of-gaping-android-security-hole-grows/118161/</link>
+            <comments>https://threatpost.com/scope-of-gaping-android-security-hole-grows/118161/#respond</comments>
+            <pubDate>Wed, 18 May 2016 11:00:15 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tom Spring]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Mobile Security]]>
+            </category>
+            <category>
+                <![CDATA[Privacy]]>
+            </category>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[Accessibility Clickjacking Exploit]]>
+            </category>
+            <category>
+                <![CDATA[Android vulnerability]]>
+            </category>
+            <category>
+                <![CDATA[Clickjacking]]>
+            </category>
+            <category>
+                <![CDATA[Skycure]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118161</guid>
+            <description>
+                <![CDATA[Security researchers at Skycure are upping the ante on a vulnerability that it says now leaves 95.4 percent of all Android devices vulnerable to an attack that hands over control of a phone or tablet to an attacker.]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/scope-of-gaping-android-security-hole-grows/118161/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Google Set to Kill SSLv3 and RC4 in SMTP, Gmail in June</title>
+            <link>https://threatpost.com/google-set-to-kill-sslv3-and-rc4-in-smtp-gmail-in-june/118153/</link>
+            <comments>https://threatpost.com/google-set-to-kill-sslv3-and-rc4-in-smtp-gmail-in-june/118153/#respond</comments>
+            <pubDate>Tue, 17 May 2016 21:02:24 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Chris Brook]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Cryptography]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[chrome]]>
+            </category>
+            <category>
+                <![CDATA[Cipher]]>
+            </category>
+            <category>
+                <![CDATA[Crypto]]>
+            </category>
+            <category>
+                <![CDATA[Encryption]]>
+            </category>
+            <category>
+                <![CDATA[google]]>
+            </category>
+            <category>
+                <![CDATA[Protocols]]>
+            </category>
+            <category>
+                <![CDATA[RC4]]>
+            </category>
+            <category>
+                <![CDATA[SSLv3]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118153</guid>
+            <description>
+                <![CDATA[Google announced this week that it will begin to disable SSLv3 and RC4 a month from now, on June 16.]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/google-set-to-kill-sslv3-and-rc4-in-smtp-gmail-in-june/118153/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Academics Make Theoretical Breakthrough in Random Number Generation</title>
+            <link>https://threatpost.com/academics-make-theoretical-breakthrough-in-random-number-generation/118150/</link>
+            <comments>https://threatpost.com/academics-make-theoretical-breakthrough-in-random-number-generation/118150/#comments</comments>
+            <pubDate>Tue, 17 May 2016 16:25:22 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Michael Mimoso]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Cryptography]]>
+            </category>
+            <category>
+                <![CDATA[Association for Computing Machinery]]>
+            </category>
+            <category>
+                <![CDATA[cryptography]]>
+            </category>
+            <category>
+                <![CDATA[David Zuckerman]]>
+            </category>
+            <category>
+                <![CDATA[Encryption]]>
+            </category>
+            <category>
+                <![CDATA[Eshan Chattopadhyay]]>
+            </category>
+            <category>
+                <![CDATA[random numbers]]>
+            </category>
+            <category>
+                <![CDATA[Symposium on Theory of Computing]]>
+            </category>
+            <category>
+                <![CDATA[University of Texas-Austin]]>
+            </category>
+            <category>
+                <![CDATA[Weizmann Institute of Science]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118150</guid>
+            <description>
+                <![CDATA[Two University of Texas academics have made what some experts believe is a breakthrough in random number generation that could have longstanding implications for cryptography and computer security.]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/academics-make-theoretical-breakthrough-in-random-number-generation/118150/feed/</wfw:commentRss>
+            <slash:comments>1</slash:comments>
+        </item>
+        <item>
+            <title>Banking Trojan Outwits Google Verify Apps Scanner</title>
+            <link>https://threatpost.com/banking-trojan-outwits-google-verify-apps-scanner/118142/</link>
+            <comments>https://threatpost.com/banking-trojan-outwits-google-verify-apps-scanner/118142/#respond</comments>
+            <pubDate>Tue, 17 May 2016 15:38:47 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tom Spring]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Hacks]]>
+            </category>
+            <category>
+                <![CDATA[Malware]]>
+            </category>
+            <category>
+                <![CDATA[Mobile Security]]>
+            </category>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Acecard]]>
+            </category>
+            <category>
+                <![CDATA[Acecard malware]]>
+            </category>
+            <category>
+                <![CDATA[Android malware]]>
+            </category>
+            <category>
+                <![CDATA[Google Play security]]>
+            </category>
+            <category>
+                <![CDATA[mobile malware]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118142</guid>
+            <description>
+                <![CDATA[A banking Trojan hiding in a casino app was removed from Google Play. The malware slipped past Google Verify Apps malware scanner and get into the marketplace. ]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/banking-trojan-outwits-google-verify-apps-scanner/118142/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Apple Patches DROWN, Lockscreen Bypass Vulnerability, With Latest Round of Updates</title>
+            <link>https://threatpost.com/apple-patches-drown-lockscreen-bypass-vulnerability-with-latest-round-of-updates/118135/</link>
+            <comments>https://threatpost.com/apple-patches-drown-lockscreen-bypass-vulnerability-with-latest-round-of-updates/118135/#respond</comments>
+            <pubDate>Tue, 17 May 2016 15:20:45 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Chris Brook]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Mobile Security]]>
+            </category>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[apple]]>
+            </category>
+            <category>
+                <![CDATA[Apple patches]]>
+            </category>
+            <category>
+                <![CDATA[Apple vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[DROWN vulnerability]]>
+            </category>
+            <category>
+                <![CDATA[ios]]>
+            </category>
+            <category>
+                <![CDATA[Lockscreen bypass]]>
+            </category>
+            <category>
+                <![CDATA[OS X]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118135</guid>
+            <description>
+                <![CDATA[Apple on Monday rolled out a series of patches for nearly all of its operating systems, including fixes for March's DROWN vulnerability in OS X and a lockscreen bypass vulnerability in iOS.
+]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/apple-patches-drown-lockscreen-bypass-vulnerability-with-latest-round-of-updates/118135/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Giving Red-Teamers the Blues</title>
+            <link>https://threatpost.com/giving-red-teamers-the-blues/118128/</link>
+            <comments>https://threatpost.com/giving-red-teamers-the-blues/118128/#respond</comments>
+            <pubDate>Mon, 16 May 2016 20:04:00 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Michael Mimoso]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Vulnerabilities]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[active defense]]>
+            </category>
+            <category>
+                <![CDATA[Chris Nickerson]]>
+            </category>
+            <category>
+                <![CDATA[exploits]]>
+            </category>
+            <category>
+                <![CDATA[penetration testing]]>
+            </category>
+            <category>
+                <![CDATA[red team]]>
+            </category>
+            <category>
+                <![CDATA[Rob Cheyne]]>
+            </category>
+            <category>
+                <![CDATA[SOURCE Boston]]>
+            </category>
+            <category>
+                <![CDATA[vulnerabilities]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118128</guid>
+            <description>
+                <![CDATA[Pen-tester Chris Nickerson will, in his Source Boston keynote, explain simple defensive approaches that can thwart the best red-teamers and advanced attackers alike.]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/giving-red-teamers-the-blues/118128/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Microsoft Quietly Kills Controversial Wi-Fi Sense Feature</title>
+            <link>https://threatpost.com/microsoft-quietly-kills-controversial-wi-fi-sense-feature/118124/</link>
+            <comments>https://threatpost.com/microsoft-quietly-kills-controversial-wi-fi-sense-feature/118124/#comments</comments>
+            <pubDate>Mon, 16 May 2016 19:31:32 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tom Spring]]>
+            </dc:creator>
+            <category>
+                <![CDATA[Privacy]]>
+            </category>
+            <category>
+                <![CDATA[Web Security]]>
+            </category>
+            <category>
+                <![CDATA[microsoft security]]>
+            </category>
+            <category>
+                <![CDATA[wi-fi secrutiy]]>
+            </category>
+            <category>
+                <![CDATA[Wi-Fi Sense]]>
+            </category>
+            <category>
+                <![CDATA[wireless security]]>
+            </category>
+            <guid isPermaLink="false">https://kasperskycontenthub.com/threatpost/?p=118124</guid>
+            <description>
+                <![CDATA[Later this summer, when Microsoft rolls out a massive update to Windows 10 called Anniversary Edition, notably missing will be the controversial Wi-Fi Sense feature.]]>
+            </description>
+            <wfw:commentRss>https://threatpost.com/microsoft-quietly-kills-controversial-wi-fi-sense-feature/118124/feed/</wfw:commentRss>
+            <slash:comments>2</slash:comments>
+        </item>
+    </channel>
+</rss>

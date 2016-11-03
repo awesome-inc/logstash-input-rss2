@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+	<title>heise Developer: SoftwareArchitekTOUR-Podcast</title>
+	<link>http://www.heise.de/developer/podcast/itunes/heise-developer-podcast-softwarearchitektour.rss</link>
+	<language>de-de</language>
+	<copyright>Â© Heise Medien</copyright>
+	<description>Bekannte Softwareentwickler diskutieren Ã¼ber wichtige Softwarearchitekturthemen. Gehen Sie mit auf Tour und profitieren Sie von ihren Erfahrungen und Tipps.</description>
+
+	<itunes:subtitle>SoftwareArchitekTOUR - Podcast fÃ¼r den professionellen Softwarearchitekten</itunes:subtitle>
+	<itunes:author>heise Developer</itunes:author>
+	<author>heise Developer</author>
+	<itunes:summary>Bekannte Softwareentwickler diskutieren Ã¼ber wichtige Softwarearchitekturthemen. Gehen Sie mit auf Tour und profitieren Sie von ihren Erfahrungen und Tipps.</itunes:summary>
+	<itunes:owner>
+		<itunes:name>Heise Medien</itunes:name>
+		<itunes:email>softwarearchitektour\@heise.de</itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://www.heise.de/extras/multimedia/heise_developer_logo_podcast.jpg" />
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News"/>
+		<itunes:category text="Software How-To"/>
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Business News"/>
+	</itunes:category>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:keywords>Entwickler,Developer,Softwarearchitektur,Software Architecture,Softwarearchitekten,SOA,Web Services,REST,Software,Pattern,Swing,J2EE</itunes:keywords>
+
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-53-Wissenswertes-zum-Internet-der-Dinge-3183633.html</link>
+        <title>Episode 53: Wissenswertes zum Internet der Dinge</title>
+        <description>Welche architektonischen Anforderungen sich beim Internet der Dinge ergeben und wie man ihrer Herr werden kann, ist Hauptgegenstand der Episode 53 des SoftwareArchitekTOUR-Podcasts.</description>
+		<itunes:summary>Welche architektonischen Anforderungen sich beim Internet der Dinge ergeben und wie man ihrer Herr werden kann, ist Hauptgegenstand der Episode 53 des SoftwareArchitekTOUR-Podcasts.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/7/9/8/6/9/3/softwarearchitektour_53_iot.mp3" length="54415472" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/7/9/8/6/9/3/softwarearchitektour_53_iot.mp3</guid>
+		<pubDate>Mon, 25 Apr 2016 16:25:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-52-Microservices-und-Self-contained-Systems-3143747.html</link>
+        <title>Episode 52: Microservices und Self-contained Systems</title>
+        <description>Eine Episode zur Bedeutung von Microservices fÃ¼r Architekturarbeit und die unterschiedlichen Schattierungen dieses Architekturmusters.</description>
+		<itunes:summary>Eine Episode zur Bedeutung von Microservices fÃ¼r Architekturarbeit und die unterschiedlichen Schattierungen dieses Architekturmusters.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/7/7/3/9/8/9/softwarearchitektour_52_microservices.mp3" length="58772691" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/7/7/3/9/8/9/softwarearchitektour_52_microservices.mp3</guid>
+		<pubDate>Fri, 18 Mar 2016 13:27:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-51-Softwareanalyse-mit-Graphendatenbanken-3045415.html</link>
+        <title>Episode 51: Softwareanalyse mit Graphendatenbanken</title>
+        <description>Michael Stal diskutiert mit Dirk Mahler und Oliver Fischer Ã¼ber MÃ¶glichkeiten und Vorteile der Abbildung von Softwareartefakten auf Graph-Strukturen.</description>
+		<itunes:summary>Michael Stal diskutiert mit Dirk Mahler und Oliver Fischer Ã¼ber MÃ¶glichkeiten und Vorteile der Abbildung von Softwareartefakten auf Graph-Strukturen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/7/1/3/9/8/8/softwarearchitektour_51_analysegraphendbs.mp3" length="47601503" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/7/1/3/9/8/8/softwarearchitektour_51_analysegraphendbs.mp3</guid>
+		<pubDate>Wed, 27 Jan 2016 15:51:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-50-Echte-Cross-Plattform-Anwendungsentwicklung-3043024.html</link>
+        <title>Episode 50: Echte Cross-Plattform-Anwendungsentwicklung</title>
+        <description>In der mittlerweile 50. Episode des SoftwareArchitekTOUR-Podcasts geht es dieses Mal um die &quot;echte&quot; Cross-Plattform-Anwendungsentwicklung. Ziel ist auch eine Abgrenzung zu verbreiteten Multi-Plattform-AnsÃ¤tzen.</description>
+		<itunes:summary>In der mittlerweile 50. Episode des SoftwareArchitekTOUR-Podcasts geht es dieses Mal um die &quot;echte&quot; Cross-Plattform-Anwendungsentwicklung. Ziel ist auch eine Abgrenzung zu verbreiteten Multi-Plattform-AnsÃ¤tzen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/7/1/2/2/7/7/softwarearchitektour_50_crossplatform.mp3" length="54603975" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/7/1/2/2/7/7/softwarearchitektour_50_crossplatform.mp3</guid>
+		<pubDate>Mon, 14 Dec 2015 14:35:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-49-Architekturanalyse-und-bewertung-2780453.html</link>
+        <title>Episode 49: Architekturanalyse und -bewertung</title>
+        <description>In dieser Episode des SoftwareArchitekTOUR-Podcasts spricht Stefan Tilkov mit Carola Lilienthal Ã¼ber AnsÃ¤tze zur Bewertung von Architekturen. </description>
+		<itunes:summary>In dieser Episode des SoftwareArchitekTOUR-Podcasts spricht Stefan Tilkov mit Carola Lilienthal Ã¼ber AnsÃ¤tze zur Bewertung von Architekturen. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/5/6/7/1/3/6/softwarearchitektour_49_analyse-bewertung.mp3" length="49645318" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/5/6/7/1/3/6/softwarearchitektour_49_analyse-bewertung.mp3</guid>
+		<pubDate>Thu, 3 Sep 2015 15:25:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-48-Spring-und-Spring-IO-2499993.html</link>
+        <title>Episode 48: Spring und Spring IO</title>
+        <description>In dieser Episode unterhÃ¤lt sich Stefan Tilkov mit mit dem Spring-Entwickler und REST-Experten Oliver Gierke Ã¼ber Spring, Spring Boot und die Spring-IO-Plattform.</description>
+		<itunes:summary>In dieser Episode unterhÃ¤lt sich Stefan Tilkov mit mit dem Spring-Entwickler und REST-Experten Oliver Gierke Ã¼ber Spring, Spring Boot und die Spring-IO-Plattform.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/4/0/4/7/5/6/softwarearchitektour_48_spring-io.mp3" length="60287789" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/4/0/4/7/5/6/softwarearchitektour_48_spring-io.mp3</guid>
+		<pubDate>Tue, 23 Dec 2014 14:28:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-47-Soziale-Kompetenz-fuer-Architekten-2413482.html</link>
+        <title>Episode 47: Soziale Kompetenz fÃ¼r Architekten</title>
+        <description>In dieser Episode unterhÃ¤lt sich Michael Stal mit seinem Siemens-Kollegen Matthias Singer Ã¼ber das Thema &quot;Soziale Kompetenz&quot; fÃ¼r Softwarearchitekten.</description>
+		<itunes:summary>In dieser Episode unterhÃ¤lt sich Michael Stal mit seinem Siemens-Kollegen Matthias Singer Ã¼ber das Thema &quot;Soziale Kompetenz&quot; fÃ¼r Softwarearchitekten.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/3/5/5/7/8/6/softwarearchitektour_47-softskills.mp3" length="56998091" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/3/5/5/7/8/6/softwarearchitektour_47-softskills.mp3</guid>
+		<pubDate>Wed, 8 Oct 2014 13:31:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-46-Ressourcen-fuer-Softwarearchitekten-2299439.html</link>
+        <title>Episode 46: Ressourcen fÃ¼r Softwarearchitekten</title>
+        <description>In dieser Episode unterhalten sich Stefan Tilkov und Michael Stal zum Thema Ressourcen fÃ¼r Architekten. Welche BÃ¼cher muss man kennen? Welche Podcasts, Videos, Online-Kurse? Wem sollte man auf Twitter folgen?</description>
+		<itunes:summary>In dieser Episode unterhalten sich Stefan Tilkov und Michael Stal zum Thema Ressourcen fÃ¼r Architekten. Welche BÃ¼cher muss man kennen? Welche Podcasts, Videos, Online-Kurse? Wem sollte man auf Twitter folgen?</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/2/9/3/0/2/6/softwarearchitektour_46_know-howfuerarchitekten.mp3" length="48774324" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/2/9/3/0/2/6/softwarearchitektour_46_know-howfuerarchitekten.mp3</guid>
+		<pubDate>Fri, 22 Aug 2014 11:09:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-45-Entwicklung-von-Offline-Webanwendungen-2183964.html</link>
+        <title>Episode 45: Entwicklung von Offline-Webanwendungen</title>
+        <description>In dieser Episode spricht Stefan Tilkov mit Jan Lehnardt Ã¼ber Hood.ie, ein Framework zur Entwicklung von Offline-Webanwendungen.</description>
+		<itunes:summary>In dieser Episode spricht Stefan Tilkov mit Jan Lehnardt Ã¼ber Hood.ie, ein Framework zur Entwicklung von Offline-Webanwendungen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/2/1/6/8/0/4/softwarearchitektour-45-offlinemithoodie.mp3" length="53989578" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/2/1/6/8/0/4/softwarearchitektour-45-offlinemithoodie.mp3</guid>
+		<pubDate>Thu, 10 Jul 2014 12:42:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-44-Modularisierte-Architektur-fuer-grosse-Systeme-2195818.html</link>
+        <title>Episode 44: Modularisierte Architektur fÃ¼r groÃŸe Systeme</title>
+        <description>In dieser Episode spricht Stefan Tilkov mit Eberhard Wolff Ã¼ber die Idee, ein Softwaresystem in eine Vielzahl kleinerer Systeme aufzuteilen, und die Konsequenzen, die sich aus einem solchen Ansatz ergeben. </description>
+		<itunes:summary>In dieser Episode spricht Stefan Tilkov mit Eberhard Wolff Ã¼ber die Idee, ein Softwaresystem in eine Vielzahl kleinerer Systeme aufzuteilen, und die Konsequenzen, die sich aus einem solchen Ansatz ergeben. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/2/2/4/7/1/7/softwarearchitektour_44_groesseresysteme.mp3" length="49716864" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/2/2/4/7/1/7/softwarearchitektour_44_groesseresysteme.mp3</guid>
+		<pubDate>Thu, 5 Jun 2014 10:35:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-43-Single-Page-Apps-mit-AngularJS-2180387.html</link>
+        <title>Episode 43: Single Page Apps mit AngularJS</title>
+        <description>Eine Podcast-Episode Ã¼ber flexible Client-Architekturen fÃ¼r Desktop, Mobil und Browser â€“ am Beispiel von AngularJS.</description>
+		<itunes:summary>Eine Podcast-Episode Ã¼ber flexible Client-Architekturen fÃ¼r Desktop, Mobil und Browser â€“ am Beispiel von AngularJS.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/2/1/4/2/9/7/softwarearchitektour_43_smartclientsmitangularjs.mp3" length="51524557" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/2/1/4/2/9/7/softwarearchitektour_43_smartclientsmitangularjs.mp3</guid>
+		<pubDate>Wed, 7 May 2014 15:37:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-42-Interview-mit-Erik-Meijer-2111416.html</link>
+        <title>Episode 42: Interview mit Erik Meijer</title>
+        <description>SoftwareArchitekTOUR-Podcaster Stefan Tilkov sprach mit Erik Meijer Ã¼ber das Konzept von &quot;Functional Reactive Programming&quot; und Ã¼ber &quot;Reactive Extensions&quot;, eine fÃ¼r viele verschiedene Programmiersprachen verfÃ¼gbare Bibliothek fÃ¼r deren Nutzung zur Programmierung von Netzwerkanwendungen. </description>
+		<itunes:summary>SoftwareArchitekTOUR-Podcaster Stefan Tilkov sprach mit Erik Meijer Ã¼ber das Konzept von &quot;Functional Reactive Programming&quot; und Ã¼ber &quot;Reactive Extensions&quot;, eine fÃ¼r viele verschiedene Programmiersprachen verfÃ¼gbare Bibliothek fÃ¼r deren Nutzung zur Programmierung von Netzwerkanwendungen. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/1/7/1/3/1/2/softwarearchitektour-42-interview_mit_erik_meijer.mp3" length="24135172" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/1/7/1/3/1/2/softwarearchitektour-42-interview_mit_erik_meijer.mp3</guid>
+		<pubDate>Tue, 4 Mar 2014 17:31:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-41-Interview-mit-Dave-Thomas-2067934.html</link>
+        <title>Episode 41: Interview mit Dave Thomas</title>
+        <description>Diese Episode ist der Auftakt mehrerer Interviews mit berÃ¼hmten Softwareentwicklern, die im Rahmen von SoftwareArchitekTOUR gefÃ¼hrt wurden. Dave Thomas hat sich vorrangig einen Namen als BegrÃ¼nder der Smalltalk-Firma Object Technology International gemacht.</description>
+		<itunes:summary>Diese Episode ist der Auftakt mehrerer Interviews mit berÃ¼hmten Softwareentwicklern, die im Rahmen von SoftwareArchitekTOUR gefÃ¼hrt wurden. Dave Thomas hat sich vorrangig einen Namen als BegrÃ¼nder der Smalltalk-Firma Object Technology International gemacht.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/1/4/5/9/4/7/softwarearchitektour-41-interview_mit_dave_thomas.mp3" length="22393118" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/1/4/5/9/4/7/softwarearchitektour-41-interview_mit_dave_thomas.mp3</guid>
+		<pubDate>Tue, 17 Dec 2013 14:11:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-40-Mobile-Multiplattform-Anwendungen-am-Beispiel-von-jQuery-Mobile-1911985.html</link>
+        <title>Episode 40: Mobile Multiplattform-Anwendungen am Beispiel von jQuery Mobile</title>
+        <description>Eine Episode Ã¼ber die Entwicklung plattformÃ¼bergreifender Apps mit dem Framework jQuery Mobile.</description>
+		<itunes:summary>Eine Episode Ã¼ber die Entwicklung plattformÃ¼bergreifender Apps mit dem Framework jQuery Mobile.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/1/0/4/6/2/6/0/softwarearchitektour-40-mobilemultiplattformanwendungen.mp3" length="47214479" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/1/0/4/6/2/6/0/softwarearchitektour-40-mobilemultiplattformanwendungen.mp3</guid>
+		<pubDate>Fri, 5 Jul 2013 15:01:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-39-Entwicklung-fuer-Embedded-Systeme-mit-mbeddr-1819298.html</link>
+        <title>Episode 39: Entwicklung fÃ¼r Embedded-Systeme mit mbeddr </title>
+        <description>Zu Gast ist Markus VÃ¶lter, der mehr Ã¼ber mbeddr, ein Open-Source-Werkzeug zur Entwicklung eingebetteter Systeme mit C, verrÃ¤t.</description>
+		<itunes:summary>Zu Gast ist Markus VÃ¶lter, der mehr Ã¼ber mbeddr, ein Open-Source-Werkzeug zur Entwicklung eingebetteter Systeme mit C, verrÃ¤t.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/9/9/3/9/3/2/softwarearchitektour-39-embeddedsysteme.mp3" length="60738415" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/9/9/3/9/3/2/softwarearchitektour-39-embeddedsysteme.mp3</guid>
+		<pubDate>Mon, 11 Mar 2013 14:40:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-38-Barrierefreiheit-1780121.html</link>
+        <title>Episode 38: Barrierefreiheit</title>
+        <description>Der SoftwareArchitekTOUR-Podcast zu Barrierefreiheit und Usability. Als Gast ist der blinde Softwareentwickler Artur Ortega geladen. </description>
+		<itunes:summary>Der SoftwareArchitekTOUR-Podcast zu Barrierefreiheit und Usability. Als Gast ist der blinde Softwareentwickler Artur Ortega geladen. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/9/6/7/6/4/2/softwarearchitektour-38-barrierefreiheit.mp3" length="66104922" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/9/6/7/6/4/2/softwarearchitektour-38-barrierefreiheit.mp3</guid>
+		<pubDate>Wed, 9 Jan 2013 13:46:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-37-ROCA-Resource-oriented-Client-Architecture-1742790.html</link>
+        <title>Episode 37: ROCA (Resource-oriented Client Architecture) </title>
+        <description>Eine Episode Ã¼ber AnsÃ¤tze fÃ¼r die Entwicklung von Webanwendungen und insbesondere Ã¼ber ROCA, einen Ansatz, der auf serverseitiges HTML und Unobtrusive JavaScript setzt.</description>
+		<itunes:summary>Eine Episode Ã¼ber AnsÃ¤tze fÃ¼r die Entwicklung von Webanwendungen und insbesondere Ã¼ber ROCA, einen Ansatz, der auf serverseitiges HTML und Unobtrusive JavaScript setzt.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/9/4/1/7/9/6/softwarearchitektour-37-roca.mp3" length="61323905" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/9/4/1/7/9/6/softwarearchitektour-37-roca.mp3</guid>
+		<pubDate>Tue, 13 Nov 2012 14:37:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-36-Modellierst-du-schon-oder-programmierst-du-noch-1674170.html</link>
+        <title>Episode 36: Modellierst du schon oder programmierst du noch? </title>
+        <description>Der SoftwareArchitekTOUR-Podcast ging tatsÃ¤chlich auf Tour und besuchte die rheinjug in DÃ¼sseldorf, um im Rahmen einer Podiumsdiskussion Ã¼ber die Frage &quot;Modellierst du schon oder programmierst du noch?&quot; zu diskutieren.</description>
+		<itunes:summary>Der SoftwareArchitekTOUR-Podcast ging tatsÃ¤chlich auf Tour und besuchte die rheinjug in DÃ¼sseldorf, um im Rahmen einer Podiumsdiskussion Ã¼ber die Frage &quot;Modellierst du schon oder programmierst du noch?&quot; zu diskutieren.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/9/0/8/3/0/4/softwarearchitektour-36-modellierenoderprogrammieren.mp3" length="85349066" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/9/0/8/3/0/4/softwarearchitektour-36-modellierenoderprogrammieren.mp3</guid>
+		<pubDate>Tue, 28 Aug 2012 11:17:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-35-Leichtgewichtige-Webapplikationen-nicht-nur-fuer-mobile-Geraete-1616969.html</link>
+        <title>Episode 35: Leichtgewichtige Webapplikationen â€“ nicht nur fÃ¼r mobile GerÃ¤te</title>
+        <description>Die aktuellen Entwicklungen vor allem bei mobilen EndgerÃ¤ten und Cloud Computing bedeuten fÃ¼r viele Softwareprojekte ein Umdenken in der Architektur. </description>
+		<itunes:summary>Die aktuellen Entwicklungen vor allem bei mobilen EndgerÃ¤ten und Cloud Computing bedeuten fÃ¼r viele Softwareprojekte ein Umdenken in der Architektur. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/8/7/4/3/5/2/softwarearchitektour-35-webundmobile.mp3" length="53033809" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/8/7/4/3/5/2/softwarearchitektour-35-webundmobile.mp3</guid>
+		<pubDate>Fri, 22 Jun 2012 14:38:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-34-Ausbildung-zum-Architekten-1568064.html</link>
+        <title>Episode 34: Ausbildung zum Architekten </title>
+        <description>SoftwareArchitekTOUR erlÃ¤utert, warum Ausbildungsprogramme Sinn machen und Zertifizierung nicht nur als GeschÃ¤ft von Anbietern dient. </description>
+		<itunes:summary>SoftwareArchitekTOUR erlÃ¤utert, warum Ausbildungsprogramme Sinn machen und Zertifizierung nicht nur als GeschÃ¤ft von Anbietern dient. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/8/3/5/5/0/4/softwarearchitektour-34-ausbildung.mp3" length="43732020" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/8/3/5/5/0/4/softwarearchitektour-34-ausbildung.mp3</guid>
+		<pubDate>Thu, 10 May 2012 12:25:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-33-Die-Rolle-des-Softwarearchitekten-1478167.html</link>
+        <title>Episode 33: Die Rolle des Softwarearchitekten </title>
+        <description>Eine Episode Ã¼ber die Erfahrungen, Kompetenzen und FÃ¤higkeiten, die ein Softwarearchitekt benÃ¶tigen sollte.</description>
+		<itunes:summary>Eine Episode Ã¼ber die Erfahrungen, Kompetenzen und FÃ¤higkeiten, die ein Softwarearchitekt benÃ¶tigen sollte.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/7/9/0/2/3/4/softwarearchitektour-33-architektenrolle.mp3" length="48021535" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/7/9/0/2/3/4/softwarearchitektour-33-architektenrolle.mp3</guid>
+		<pubDate>Mon, 26 Mar 2012 10:55:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-32-Business-Process-Management-1382190.html</link>
+        <title>Episode 32: Business Process Management </title>
+        <description>Eine Episode mit dem BPEL-Experten Daniel LÃ¼bke Ã¼ber Business Process Management (BPM) und die allgemeine Frage nach dessen Sinn und Unsinn.</description>
+		<itunes:summary>Eine Episode mit dem BPEL-Experten Daniel LÃ¼bke Ã¼ber Business Process Management (BPM) und die allgemeine Frage nach dessen Sinn und Unsinn.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/7/3/8/3/8/5/softwarearchitektour-32-bpm.mp3" length="63325508" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/7/3/8/3/8/5/softwarearchitektour-32-bpm.mp3</guid>
+		<pubDate>Wed, 23 Nov 2011 09:12:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-31-Webarchitekturen-1254713.html</link>
+        <title>Episode 31: Webarchitekturen </title>
+        <description>Eine Episode Ã¼ber die Architektur von Webanwendungen inklusive Frontend-Optimierungen, die Rolle von Programmiersprachen und Webframeworks, Skalierbarkeit sowie die Einbettung in die Gesamtarchitektur.</description>
+		<itunes:summary>Eine Episode Ã¼ber die Architektur von Webanwendungen inklusive Frontend-Optimierungen, die Rolle von Programmiersprachen und Webframeworks, Skalierbarkeit sowie die Einbettung in die Gesamtarchitektur.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/7/2/3/8/4/softwarearchitektour-31-web-arch.mp3" length="58583764" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/7/2/3/8/4/softwarearchitektour-31-web-arch.mp3</guid>
+		<pubDate>Thu, 29 Sep 2011 13:01:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-30-Product-Line-Engineering-1234799.html</link>
+        <title>Episode 30: Product Line Engineering </title>
+        <description>Eine Episode Ã¼ber Product Line Engineering, welche Vorteile und Nachteile sich daraus ergeben, und wie man zu einer Produktlinie kommt.</description>
+		<itunes:summary>Eine Episode Ã¼ber Product Line Engineering, welche Vorteile und Nachteile sich daraus ergeben, und wie man zu einer Produktlinie kommt.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/5/9/7/7/0/softwarearchitektour-30-ple.ane.ac0bd82665b917b4cf882c85614cbea8.mp3" length="70577566" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/5/9/7/7/0/softwarearchitektour-30-ple.ane.ac0bd82665b917b4cf882c85614cbea8.mp3</guid>
+		<pubDate>Mon, 30 May 2011 09:26:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-29-Cloud-Computing-mit-Windows-Azure-1211445.html</link>
+        <title>Episode 29: Cloud Computing mit Windows Azure </title>
+        <description>Eine Episode Ã¼ber das Cloud Computing mit Microsofts Cloud-Plattform Windows Azure, die zunehmend besser wird.</description>
+		<itunes:summary>Eine Episode Ã¼ber das Cloud Computing mit Microsofts Cloud-Plattform Windows Azure, die zunehmend besser wird.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/4/4/9/8/1/softwarearchitektour-29-windowsazure.mp3" length="60337942" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/4/4/9/8/1/softwarearchitektour-29-windowsazure.mp3</guid>
+		<pubDate>Thu, 24 Mar 2011 11:22:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-28-Bedeutung-Einsatzszenarien-und-Perspektive-von-Lisp-1194789.html</link>
+        <title>Episode 28: Bedeutung, Einsatzszenarien und Perspektive von Lisp </title>
+        <description>Die Episode geht auf die Historie der Programmiersprache Lisp ein und beleuchtet ihre Bedeutung fÃ¼r die heutige Softwareentwicklung.</description>
+		<itunes:summary>Die Episode geht auf die Historie der Programmiersprache Lisp ein und beleuchtet ihre Bedeutung fÃ¼r die heutige Softwareentwicklung.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/3/3/6/5/0/softwarearchitektour-28-lisp.mp3" length="65384815" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/3/3/6/5/0/softwarearchitektour-28-lisp.mp3</guid>
+		<pubDate>Thu, 24 Feb 2011 17:18:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-27-Interne-DSLs-1167843.html</link>
+        <title>Episode 27: Interne DSLs </title>
+        <description>Eine Episode Ã¼ber interne DSLs, also domÃ¤nenspezifische Sprachen, die in eine bestehende Programmiersprache eingebettet werden. </description>
+		<itunes:summary>Eine Episode Ã¼ber interne DSLs, also domÃ¤nenspezifische Sprachen, die in eine bestehende Programmiersprache eingebettet werden. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/1/5/7/5/4/softwarearchitektour-27-internedsls.mp3" length="53657680" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/1/5/7/5/4/softwarearchitektour-27-internedsls.mp3</guid>
+		<pubDate>Thu, 13 Jan 2011 13:15:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-26-Systems-Engineering-und-Softwarearchitektur-1149323.html</link>
+        <title>Episode 26: Systems Engineering und Softwarearchitektur </title>
+        <description>Der Ã¼berwiegende Teil von Software lÃ¤uft heutzutage auf Embedded-Systemen. FÃ¼r Softwarearchitekten, die an solchen Systemen mitarbeiten, stellen sich dementsprechend ganz andere Herausforderungen. </description>
+		<itunes:summary>Der Ã¼berwiegende Teil von Software lÃ¤uft heutzutage auf Embedded-Systemen. FÃ¼r Softwarearchitekten, die an solchen Systemen mitarbeiten, stellen sich dementsprechend ganz andere Herausforderungen. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/6/0/4/0/4/5/softwarearchitektour-26-systemsengineering.mp3" length="47535002" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/6/0/4/0/4/5/softwarearchitektour-26-systemsengineering.mp3</guid>
+		<pubDate>Thu, 9 Dec 2010 15:52:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-25-Systematischer-Einsatz-von-Designtaktiken-1124366.html</link>
+        <title>Episode 25: Systematischer Einsatz von Designtaktiken </title>
+        <description>Wie sich das Umgehen mit nichtfunktionalen Eigenschaften dank Designtaktiken systematisieren lÃ¤sst, zeigt die aktuelle Episode des SoftwareArchitekTOUR-Podcasts.</description>
+		<itunes:summary>Wie sich das Umgehen mit nichtfunktionalen Eigenschaften dank Designtaktiken systematisieren lÃ¤sst, zeigt die aktuelle Episode des SoftwareArchitekTOUR-Podcasts.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/8/6/7/8/4/softwarearchitektour-25-designtaktiken.mp3" length="32568715" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/8/6/7/8/4/softwarearchitektour-25-designtaktiken.mp3</guid>
+		<pubDate>Tue, 26 Oct 2010 10:49:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-24-Testing-Softwarearchitektur-1080236.html</link>
+        <title>Episode 24: Testing &amp;amp; Softwarearchitektur </title>
+        <description>Die Episode zum Thema &quot;Testen&quot; zeigt, dass der Softwarearchitekt sich dem Thema ausgiebig widmen sollte, da er als wichtiger Ansprechpartner zu Testentscheidungen fungiert.</description>
+		<itunes:summary>Die Episode zum Thema &quot;Testen&quot; zeigt, dass der Softwarearchitekt sich dem Thema ausgiebig widmen sollte, da er als wichtiger Ansprechpartner zu Testentscheidungen fungiert.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/7/0/6/0/1/softwarearchitektour-24-testing.mp3" length="37226445" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/7/0/6/0/1/softwarearchitektour-24-testing.mp3</guid>
+		<pubDate>Mon, 20 Sep 2010 11:25:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-23-Domaenenspezifische-Sprachen-1062358.html</link>
+        <title>Episode 23: DomÃ¤nenspezifische Sprachen </title>
+        <description>Eine Episode Ã¼ber Domain-Specific Languages (DSLs) im Allgemeinen sowie Ã¼ber Eclipse Xtext und JetBrains' MPS (Meta Programming System) im Besonderen, die unterschiedliche AnsÃ¤tze zur Implementierung textueller DSLs verwenden.</description>
+		<itunes:summary>Eine Episode Ã¼ber Domain-Specific Languages (DSLs) im Allgemeinen sowie Ã¼ber Eclipse Xtext und JetBrains' MPS (Meta Programming System) im Besonderen, die unterschiedliche AnsÃ¤tze zur Implementierung textueller DSLs verwenden.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/5/8/8/0/9/softwarearchitektour-23-dsl.mp3" length="61517417" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/5/8/8/0/9/softwarearchitektour-23-dsl.mp3</guid>
+		<pubDate>Fri, 20 Aug 2010 12:28:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-22-NoSQL-Alternative-zu-relationalen-Datenbanken-1027769.html</link>
+        <title>Episode 22: NoSQL - Alternative zu relationalen Datenbanken </title>
+        <description>Bei dieser Episode geht es um sogenannte NoSQL-Datenbanksysteme, ihre grundlegenden Eigenschaften und um die Frage, ob sie relationale Datenbanken ersetzen kÃ¶nnen.</description>
+		<itunes:summary>Bei dieser Episode geht es um sogenannte NoSQL-Datenbanksysteme, ihre grundlegenden Eigenschaften und um die Frage, ob sie relationale Datenbanken ersetzen kÃ¶nnen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/3/5/2/6/1/softwarearchitektour-22-nosql.mp3" length="72290293" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/3/5/2/6/1/softwarearchitektour-22-nosql.mp3</guid>
+		<pubDate>Fri, 25 Jun 2010 14:51:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-21-Funktionale-Programmierung-999151.html</link>
+        <title>Episode 21: Funktionale Programmierung </title>
+        <description>Plattformen wie die Java Virtual Machine oder die Common Language Runtime und der Trend hin zu Multicore-Architekturen legen die Basis fÃ¼r eine neue PopularitÃ¤t von funktionaler Programmierung.</description>
+		<itunes:summary>Plattformen wie die Java Virtual Machine oder die Common Language Runtime und der Trend hin zu Multicore-Architekturen legen die Basis fÃ¼r eine neue PopularitÃ¤t von funktionaler Programmierung.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/1/9/0/7/1/softwarearchitektour-21-funktionaleprogrammierung.mp3" length="60885500" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/1/9/0/7/1/softwarearchitektour-21-funktionaleprogrammierung.mp3</guid>
+		<pubDate>Fri, 14 May 2010 12:00:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-20-Architektur-als-Sprache-972531.html</link>
+        <title>Episode 20: Architektur als Sprache </title>
+        <description>Die Episode geht auf die Verwendung von (textuellen) DSLs zur formalen Beschreibung von Softwarearchitektur ein.</description>
+		<itunes:summary>Die Episode geht auf die Verwendung von (textuellen) DSLs zur formalen Beschreibung von Softwarearchitektur ein.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/5/0/5/2/1/4/softwarearchitektour-20-archaslang.mp3" length="55172879" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/5/0/5/2/1/4/softwarearchitektour-20-archaslang.mp3</guid>
+		<pubDate>Mon, 12 Apr 2010 08:07:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-19-REST-in-der-NET-Welt-947193.html</link>
+        <title>Episode 19: REST in der .NET-Welt </title>
+        <description>Die dritte Episode zum Thema REST geht auf die diversen technischen MÃ¶glichkeiten zur Implementierung der REST-Idee auf Basis des .NET-Frameworks ein.</description>
+		<itunes:summary>Die dritte Episode zum Thema REST geht auf die diversen technischen MÃ¶glichkeiten zur Implementierung der REST-Idee auf Basis des .NET-Frameworks ein.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/9/1/2/8/0/softwarearchitektour-19-rest3.mp3" length="43471960" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/9/1/2/8/0/softwarearchitektour-19-rest3.mp3</guid>
+		<pubDate>Fri, 12 Mar 2010 15:56:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-18-Anti-Patterns-und-Tools-fuer-REST-924171.html</link>
+        <title>Episode 18: (Anti-)Patterns und Tools fÃ¼r REST </title>
+        <description>Die zweite Episode zum Thema REST behandelt Anti-Patterns und Patterns beim Entwurf von Systemen, die den Anspruch haben, &quot;RESTful&quot; zu sein, und stellt Werkzeuge fÃ¼r die Entwicklung von REST-Anwendungen in der Java- und .NET-Welt vor.</description>
+		<itunes:summary>Die zweite Episode zum Thema REST behandelt Anti-Patterns und Patterns beim Entwurf von Systemen, die den Anspruch haben, &quot;RESTful&quot; zu sein, und stellt Werkzeuge fÃ¼r die Entwicklung von REST-Anwendungen in der Java- und .NET-Welt vor.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/7/8/1/3/4/softwarearchitektour-18-rest2.mp3" length="44888424" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/7/8/1/3/4/softwarearchitektour-18-rest2.mp3</guid>
+		<pubDate>Fri, 19 Feb 2010 11:26:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-17-Einstieg-in-REST-921652.html</link>
+        <title>Episode 17: Einstieg in REST</title>
+        <description>Markus VÃ¶lter und Stefan Tilkov stellen REST vor, die Architektur des WWW, und beantworten die Frage, wann REST eine gute Wahl ist und wann andere AnsÃ¤tze besser geeignet sind.</description>
+		<itunes:summary>Markus VÃ¶lter und Stefan Tilkov stellen REST vor, die Architektur des WWW, und beantworten die Frage, wann REST eine gute Wahl ist und wann andere AnsÃ¤tze besser geeignet sind.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/7/6/7/1/4/softwarearchitektour-17-rest1.mp3" length="43912071" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/7/6/7/1/4/softwarearchitektour-17-rest1.mp3</guid>
+		<pubDate>Mon, 8 Feb 2010 08:47:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-16-Architektur-Reviews-885207.html</link>
+        <title>Episode 16: Architektur-Reviews </title>
+        <description>Die Episode gibt einen Ãœberblick darÃ¼ber, wie sich existierende Softwarearchitekturen evaluieren lassen.</description>
+		<itunes:summary>Die Episode gibt einen Ãœberblick darÃ¼ber, wie sich existierende Softwarearchitekturen evaluieren lassen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/5/6/5/3/8/softwarearchitektour-16-review.mp3" length="55647111" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/5/6/5/3/8/softwarearchitektour-16-review.mp3</guid>
+		<pubDate>Wed, 6 Jan 2010 09:24:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-15-Architekturdokumentation-852598.html</link>
+        <title>Episode 15: Architekturdokumentation </title>
+        <description>Episode 15 setzt sich mit dem vielerorts ungeliebten Thema Architekturdokumentation auseinander und gibt eine Reihe Best Practices hierfÃ¼r mit. </description>
+		<itunes:summary>Episode 15 setzt sich mit dem vielerorts ungeliebten Thema Architekturdokumentation auseinander und gibt eine Reihe Best Practices hierfÃ¼r mit. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/3/7/8/1/4/softwarearchitektour-15-architekturdoku.mp3" length="58261446" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/3/7/8/1/4/softwarearchitektour-15-architekturdoku.mp3</guid>
+		<pubDate>Wed, 11 Nov 2009 10:04:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-14-Entwicklung-fuer-Multicore-Systeme-822458.html</link>
+        <title>Episode 14: Entwicklung fÃ¼r Multicore-Systeme </title>
+        <description>Die Episode 14 setzt sich mit den Herausforderungen und LÃ¶sungsansÃ¤tzen fÃ¼r die Entwicklung fÃ¼r Multicore-Systeme auseinander. Neben der Grundproblematik sind ParallelitÃ¤t und Architektur, Auswirkungen auf das Design und Idiome zur parallelen Programmierung ein Thema. </description>
+		<itunes:summary>Die Episode 14 setzt sich mit den Herausforderungen und LÃ¶sungsansÃ¤tzen fÃ¼r die Entwicklung fÃ¼r Multicore-Systeme auseinander. Neben der Grundproblematik sind ParallelitÃ¤t und Architektur, Auswirkungen auf das Design und Idiome zur parallelen Programmierung ein Thema. </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/1/9/7/4/6/softwarearchitektour-14-multicore.mp3" length="51388943" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/1/9/7/4/6/softwarearchitektour-14-multicore.mp3</guid>
+		<pubDate>Thu, 15 Oct 2009 09:01:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-13-Serviceorientierte-Architekturen-SOA-allgemeine-Grundlagen-785557.html</link>
+        <title>Episode 13: Serviceorientierte Architekturen (SOA) - allgemeine Grundlagen </title>
+        <description>Episode 13 ist Auftakt einer Serie von Folgen zum Thema serviceorientierte Architekturen (SOA) und geht auf grundlegende Fragestellungen ein.</description>
+		<itunes:summary>Episode 13 ist Auftakt einer Serie von Folgen zum Thema serviceorientierte Architekturen (SOA) und geht auf grundlegende Fragestellungen ein.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/4/0/2/1/3/0/softwarearchitektour-13-soa-teil1.mp3" length="57255836" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/4/0/2/1/3/0/softwarearchitektour-13-soa-teil1.mp3</guid>
+		<pubDate>Mon, 7 Sep 2009 14:22:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-12-Systematischer-Softwarearchitekturentwurf-353501.html</link>
+        <title>Episode 12: Systematischer Softwarearchitekturentwurf </title>
+        <description>Das in der Episode vorgestellte Modell fÃ¼r systematischen Architekturentwurf enthÃ¤lt einige Best Practices fÃ¼r das Aufsetzen einer Softwarearchitektur.</description>
+		<itunes:summary>Das in der Episode vorgestellte Modell fÃ¼r systematischen Architekturentwurf enthÃ¤lt einige Best Practices fÃ¼r das Aufsetzen einer Softwarearchitektur.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/4/0/5/softwarearchitektour-12-systematischerArchitekturentwurf.mp3" length="35302876" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/4/0/5/softwarearchitektour-12-systematischerArchitekturentwurf.mp3</guid>
+		<pubDate>Mon, 17 Aug 2009 09:59:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-11-Modellierung-im-Softwarearchitekturumfeld-Teil-2-353355.html</link>
+        <title>Episode 11: Modellierung im Softwarearchitekturumfeld, Teil 2</title>
+        <description>Der zweite Teil dieser Doppelepisode zum Thema Modellierung und modellgetriebene Entwicklung geht auf die Themen Modellvalidierung, ausgewÃ¤hlte Tools und Einsatzszenarien ein.</description>
+		<itunes:summary>Der zweite Teil dieser Doppelepisode zum Thema Modellierung und modellgetriebene Entwicklung geht auf die Themen Modellvalidierung, ausgewÃ¤hlte Tools und Einsatzszenarien ein.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/7/1/softwarearchitektour-11-modellierung-teil2.mp3" length="35275295" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/7/1/softwarearchitektour-11-modellierung-teil2.mp3</guid>
+		<pubDate>Thu, 6 Aug 2009 11:01:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-10-Modellierung-im-Softwarearchitekturumfeld-Teil-1-353335.html</link>
+        <title>Episode 10: Modellierung im Softwarearchitekturumfeld, Teil 1 </title>
+        <description>Der erste Teil einer Doppelepisode zum Thema Modellierung und modellgetriebene Entwicklung im Architekturumfeld behandelt Grundlagen, Standards und eine Abgrenzung zur UML.</description>
+		<itunes:summary>Der erste Teil einer Doppelepisode zum Thema Modellierung und modellgetriebene Entwicklung im Architekturumfeld behandelt Grundlagen, Standards und eine Abgrenzung zur UML.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/6/7/softwarearchitektour-10-modellierung-Teil1.mp3" length="33527498" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/6/7/softwarearchitektour-10-modellierung-Teil1.mp3</guid>
+		<pubDate>Mon, 27 Jul 2009 10:46:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-9-Cloud-Computing-353324.html</link>
+        <title>Episode 9: Cloud Computing </title>
+        <description>Die Episode klÃ¤rt auf, worum es sich bei Cloud Computing handelt und warum es gerade fÃ¼r den Architekten interessant sein kÃ¶nnte.</description>
+		<itunes:summary>Die Episode klÃ¤rt auf, worum es sich bei Cloud Computing handelt und warum es gerade fÃ¼r den Architekten interessant sein kÃ¶nnte.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/6/4/softwarearchitektour-9-cloudComputing.mp3" length="48849464" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/6/4/softwarearchitektour-9-cloudComputing.mp3</guid>
+		<pubDate>Thu, 16 Jul 2009 10:39:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-8-Architektur-Refactoring-353295.html</link>
+        <title>Episode 8: Architektur-Refactoring </title>
+        <description>Ãœber den augenblicklichen Stand der Architektur zu reflektieren, ist wichtig, damit keine unerwÃ¼nschten Erosionserscheinungen auftreten. Treten strukturelle Probleme auf, ist es Zeit fÃ¼r Architektur-Refactoring.</description>
+		<itunes:summary>Ãœber den augenblicklichen Stand der Architektur zu reflektieren, ist wichtig, damit keine unerwÃ¼nschten Erosionserscheinungen auftreten. Treten strukturelle Probleme auf, ist es Zeit fÃ¼r Architektur-Refactoring.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/5/9/softwarearchitektour-8-refactoring.mp3" length="44238169" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/5/9/softwarearchitektour-8-refactoring.mp3</guid>
+		<pubDate>Mon, 6 Jul 2009 12:24:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-7-Middleware-in-der-NET-Welt-353233.html</link>
+        <title>Episode 7: Middleware in der .NET-Welt </title>
+        <description>Die siebte Episode des SoftwareArchtitekTOUR-Podcasts zeigt, wie sich die allgemeinen Ideen aus den ersten Middleware-Episoden im .NET-Kontext realisieren lassen.</description>
+		<itunes:summary>Die siebte Episode des SoftwareArchtitekTOUR-Podcasts zeigt, wie sich die allgemeinen Ideen aus den ersten Middleware-Episoden im .NET-Kontext realisieren lassen.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/4/5/softwarearchitektour-7-middlewareInDotNet.mp3" length="38661917" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/4/5/softwarearchitektour-7-middlewareInDotNet.mp3</guid>
+		<pubDate>Thu, 25 Jun 2009 11:38:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-6-Middleware-in-der-Java-Welt-353220.html</link>
+        <title>Episode 6: Middleware in der Java-Welt </title>
+        <description>Die sechste Episode des SoftwareArchtitekTOUR-Podcasts zeigt, wie die allgemeinen Ideen aus den vorhergehenden Middleware-Episoden im Java-Kontext umzusetzen sind.</description>
+		<itunes:summary>Die sechste Episode des SoftwareArchtitekTOUR-Podcasts zeigt, wie die allgemeinen Ideen aus den vorhergehenden Middleware-Episoden im Java-Kontext umzusetzen sind.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/4/2/softwarearchitektour-6-middlewareInJava.mp3" length="58014681" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/4/2/softwarearchitektour-6-middlewareInJava.mp3</guid>
+		<pubDate>Mon, 15 Jun 2009 11:01:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-5-Definition-Einsatz-und-Zukunft-von-Middleware-Teil-2-353256.html</link>
+        <title>Episode 5: Definition, Einsatz und Zukunft von Middleware, Teil 2 </title>
+        <description>In der zweiten Episode zum Thema Middleware werden die allgemeine Technikkonzepte konkretisiert, indem Ã¼ber den sinnvollen Einsatz von Middleware-LÃ¶sungen diskutiert wird.</description>
+		<itunes:summary>In der zweiten Episode zum Thema Middleware werden die allgemeine Technikkonzepte konkretisiert, indem Ã¼ber den sinnvollen Einsatz von Middleware-LÃ¶sungen diskutiert wird.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/5/2/softwarearchitektour-5-middleware-Teil2.mp3" length="26194610" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/5/2/softwarearchitektour-5-middleware-Teil2.mp3</guid>
+		<pubDate>Thu, 4 Jun 2009 10:11:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-4-Definition-Einsatz-und-Zukunft-von-Middleware-353171.html</link>
+        <title>Episode 4: Definition, Einsatz und Zukunft von Middleware</title>
+        <description>In der ersten Episode zum Thema Middleware stehen allgemeine Technikkonzepte und ihre architektonischen Auswirkungen im Vordergrund.</description>
+		<itunes:summary>In der ersten Episode zum Thema Middleware stehen allgemeine Technikkonzepte und ihre architektonischen Auswirkungen im Vordergrund.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/3/1/softwarearchitektour-4-middleware-Teil1.mp3" length="38421170" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/3/1/softwarearchitektour-4-middleware-Teil1.mp3</guid>
+		<pubDate>Mon, 25 May 2009 14:55:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-3-Patterns-in-der-NET-Welt-353163.html</link>
+        <title>Episode 3: Patterns in der .NET-Welt </title>
+        <description>Obgleich Microsoft frÃ¼hzeitig versucht hat, die Wiederverwendung von Designwissen zu fÃ¶rdern, sind Patterns in .NET noch etwas &quot;artfremd&quot;. Die neue Episode blickt tief in die Welt der Patterns mit .NET.</description>
+		<itunes:summary>Obgleich Microsoft frÃ¼hzeitig versucht hat, die Wiederverwendung von Designwissen zu fÃ¶rdern, sind Patterns in .NET noch etwas &quot;artfremd&quot;. Die neue Episode blickt tief in die Welt der Patterns mit .NET.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/2/3/softwarearchitektour-3-patternsInDotNet.mp3" length="38467980" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/2/3/softwarearchitektour-3-patternsInDotNet.mp3</guid>
+		<pubDate>Tue, 12 May 2009 08:17:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-2-Patterns-in-der-Java-Welt-353101.html</link>
+        <title>Episode 2: Patterns in der Java-Welt </title>
+        <description>Aufbauend auf der ersten Folge, die in Patterns einfÃ¼hrte, konkretisiert die zweite Episode des SoftwareArchitekTOUR-Podcast das Thema, indem sie auf Patterns in der Java-Welt eingeht.</description>
+		<itunes:summary>Aufbauend auf der ersten Folge, die in Patterns einfÃ¼hrte, konkretisiert die zweite Episode des SoftwareArchitekTOUR-Podcast das Thema, indem sie auf Patterns in der Java-Welt eingeht.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/0/9/softwarearchitektour-2-patternsInJava.mp3" length="46983480" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/0/9/softwarearchitektour-2-patternsInJava.mp3</guid>
+		<pubDate>Fri, 8 May 2009 11:36:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-1-Ueber-den-Einsatz-von-Patterns-353072.html</link>
+        <title>Episode 1: Ãœber den Einsatz von Patterns </title>
+        <description>Die neue Episode der SoftwareArchitekTOUR-Podcastserie setzt sich mit dem Thema Patterns auseinander. Die Betreiber widmen sich speziellen LÃ¶sungsvorschlÃ¤gen fÃ¼r wiederholt auftretende Entwurfsprobleme in der Softwarearchitektur.</description>
+		<itunes:summary>Die neue Episode der SoftwareArchitekTOUR-Podcastserie setzt sich mit dem Thema Patterns auseinander. Die Betreiber widmen sich speziellen LÃ¶sungsvorschlÃ¤gen fÃ¼r wiederholt auftretende Entwurfsprobleme in der Softwarearchitektur.</itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/0/4/softwarearchitektour-1-patterns.mp3" length="42738253" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/0/4/softwarearchitektour-1-patterns.mp3</guid>
+		<pubDate>Mon, 27 Apr 2009 14:55:00 GMT</pubDate>
+	</item>
+	<item>
+		<link>http://www.heise.de/developer/artikel/Episode-0-Start-des-SoftwareArchitekTOUR-Podcast-plus-Ausblick-353052.html</link>
+        <title>Episode 0: Start des SoftwareArchitekTOUR-Podcast plus Ausblick</title>
+        <description>In der ersten Episode erlÃ¤utern die Betreiber des SoftwareArchitekTOUR-Podcasts, was Softwarearchitektur ist, was die Ziele des Podcasts sind beziehungsweise was die ZuhÃ¶rer mitnehmen sollen.   </description>
+		<itunes:summary>In der ersten Episode erlÃ¤utern die Betreiber des SoftwareArchitekTOUR-Podcasts, was Softwarearchitektur ist, was die Ziele des Podcasts sind beziehungsweise was die ZuhÃ¶rer mitnehmen sollen.   </itunes:summary>
+        <enclosure url="http://www.heise.de/developer/downloads/06/2/8/3/3/0/0/softwarearchitektour-0-einfuehrungUndUeberblick.mp3" length="40223010" type="audio/mpeg" />
+		<guid>http://www.heise.de/developer/downloads/06/2/8/3/3/0/0/softwarearchitektour-0-einfuehrungUndUeberblick.mp3</guid>
+		<pubDate>Wed, 22 Apr 2009 13:42:00 GMT</pubDate>
+	</item>
+</channel>
+</rss>

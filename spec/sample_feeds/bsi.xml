@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>BSI RSS-Newsfeed Presse- und Kurzmitteilungen</title>
+    <link>https://www.bsi.bund.de</link>
+    <description>Aktuelle Informationen vom Bundesamt für Sicherheit in der Informationstechnik</description>
+    <lastBuildDate>Fri May 13 09:38:58 CEST 2016</lastBuildDate>
+    <language>de-de</language>
+    <copyright>Copyright Bundesamt für Sicherheit in der Informationstechnik. Alle Rechte vorbehalten</copyright>
+    <managingEditor>oeffentlichkeitsarbeit@bsi.bund.de</managingEditor>
+    <webMaster>webmaster@bsi.bund.de</webMaster>
+    <category>Newspapers</category>
+    <generator>Government Site Builder</generator>
+    <image>
+       <url>https://www.bsi.bund.de/cae/servlet/contentblob/468652/normal/27837/logo_a.gif</url>
+       <title>www.bsi.bund.de</title>
+       <link>https://www.bsi.bund.de</link>
+      <description>RSS-Newsfeed Bundesamt für Sicherheit in der Informationstechnik</description>
+   </image>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <ttl>60</ttl>
+<item>
+<title>BSI wieder unter den Top-Arbeitgebern</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/BSI_top_Arbeitgeber_09052016.html</link>
+<pubDate>Mon, 9 May 2016 16:48:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>BSI ver&#246;ffentlicht finale Fassung des Testkonzepts f&#252;r Breitband-Router</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/Testkonzept_fuer_Breitband-Router_04052016.html</link>
+<pubDate>Wed, 4 May 2016 13:48:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>ViS!T 2016</title>
+<link>https://www.bsi.bund.de/SharedDocs/Termine/DE/2016/visit.html</link>
+<pubDate>Wed, 4 May 2016 10:27:27 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>15. Deutscher IT-Sicherheitskongress: Call&#160;for&#160;Papers gestartet</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/CallforPapers_IT-Sicherheiskongress_02052016.html</link>
+<pubDate>Mon, 2 May 2016 07:48:31 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>Cyber-Sicherheit f&#252;r Industrie 4.0</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/Hannovermesse_29042016.html</link>
+<pubDate>Fri, 29 Apr 2016 10:00:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>Allianz f&#252;r Cyber-Sicherheit: Mittelbach neuer Beirats-Vorsitzender</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/ACS_Beiratswahl_27042016.html</link>
+<pubDate>Wed, 27 Apr 2016 17:00:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>Ransomware: Ein Drittel der Unternehmen ist betroffen</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/Ransomware_Umfrage_27042016.html</link>
+<pubDate>Wed, 27 Apr 2016 10:00:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>Industrie 4.0: BSI-Studie zum Kommunikationsstandard OPC UA</title>
+<link>https://www.bsi.bund.de/DE/Presse/Pressemitteilungen/Presse2016/Sicherheitsanalyse_OPC_UA_26042016.html</link>
+<pubDate>Tue, 26 Apr 2016 09:10:00 +0200</pubDate>
+<description></description>
+</item>
+  </channel>
+</rss>

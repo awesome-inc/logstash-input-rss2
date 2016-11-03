@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">heise Security</title>
+    <subtitle type="html">News und Hintergrund-Informationen zur IT-Sicherheit</subtitle>
+    <updated>2016-05-12T18:20:32+02:00</updated>
+    <id>http://www.heise.de/security/</id><logo>http://www.heise.de/security/icons/security_logo.gif</logo>
+    <link rel="self" type="application/atom+xml" href="http://www.heise.de/security/news/news-atom.xml" />
+    <link rel="alternate" type="text/html" href="http://www.heise.de/security/" />
+    <rights>Copyright (c) 2016 Heise Medien</rights>
+    <author>
+        <name>heise online</name>
+    </author>
+
+    <entry>
+        <title type="text">Trend Micro: Pawn Storm hat nach dem Bundestag nun die CDU im Visier</title>
+        <id>http://heise.de/-3207508</id>
+        <updated>2016-05-12T18:20:32+02:00</updated>
+        <published>2016-05-12T18:20:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Trend-Micro-Pawn-Storm-hat-nach-dem-Bundestag-nun-die-CDU-im-Visier-3207508.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugefügt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Trend-Micro-Pawn-Storm-hat-nach-dem-Bundestag-nun-die-CDU-im-Visier-3207508.html?wt_mc=rss.security.beitrag.atom" title="Trend Micro: Pawn Storm hat nach dem Bundestag nun die CDU im Visier">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/8/4/1/CDU_Bundesgeschaeftsstelle_Berlin-a6bd5fce4f851cbf.jpeg" alt="Trend Micro: Pawn Storm hat nach dem Bundestag nun die CDU im Visier" />
+                    
+                </a>
+                <p>Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugefügt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. </p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Allwinner vergisst Root-Cheatcode im Kernel für Sunxi-SoCs</title>
+        <id>http://heise.de/-3207356</id>
+        <updated>2016-05-12T17:09:00+02:00</updated>
+        <published>2016-05-12T17:09:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Allwinner-vergisst-Root-Cheatcode-im-Kernel-fuer-Sunxi-SoCs-3207356.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Mehrere ARM-Entwicklerboards und Billig-Tablets lassen sich über die Lücke auf einfachste Weise rooten.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Allwinner-vergisst-Root-Cheatcode-im-Kernel-fuer-Sunxi-SoCs-3207356.html?wt_mc=rss.security.beitrag.atom" title="Allwinner vergisst Root-Cheatcode im Kernel für Sunxi-SoCs">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/7/3/8/allwinner-h8-a88f058f7ec5848d.jpeg" alt="Allwinner vergisst Root-Cheatcode im Kernel für Sunxi-SoCs" />
+                    
+                </a>
+                <p>Mehrere ARM-Entwicklerboards und Billig-Tablets lassen sich über die Lücke auf einfachste Weise rooten.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">US-CERT warnt Betreiber von SAP-Systemen</title>
+        <id>http://heise.de/-3207245</id>
+        <updated>2016-05-12T15:29:47+02:00</updated>
+        <published>2016-05-12T15:29:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/US-CERT-warnt-Betreiber-von-SAP-Systemen-3207245.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Anlass der Sicherheitswarnung des Computer-Notfall-Teams der USA ist ein Bericht, demzufolge mindestens 36 Organisationen in der ganzen Welt über eine SAP-Lücke angegriffen und kompromittiert wurden. </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/US-CERT-warnt-Betreiber-von-SAP-Systemen-3207245.html?wt_mc=rss.security.beitrag.atom" title="US-CERT warnt Betreiber von SAP-Systemen">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/6/5/4/SAP_Rechenzentrum-StLeon-Rot-021c97f39e7af279.jpeg" alt="US-CERT warnt Betreiber von SAP-Systemen" />
+                    
+                </a>
+                <p>Anlass der Sicherheitswarnung des Computer-Notfall-Teams der USA ist ein Bericht, demzufolge mindestens 36 Organisationen in der ganzen Welt über eine SAP-Lücke angegriffen und kompromittiert wurden. </p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Massiver Gewinneinbruch bei TalkTalk nach Hackerangriff</title>
+        <id>http://heise.de/-3207166</id>
+        <updated>2016-05-12T15:04:37+02:00</updated>
+        <published>2016-05-12T15:04:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Massiver-Gewinneinbruch-bei-TalkTalk-nach-Hackerangriff-3207166.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Wie ernst der Verlust von Kundendaten sein kann, musste der britische Provider TalkTalk nun erfahren:  Der Gewinn der Firma brach als Reaktion auf das Datenleck im Oktober um mehr als die Hälfte ein.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Massiver-Gewinneinbruch-bei-TalkTalk-nach-Hackerangriff-3207166.html?wt_mc=rss.security.beitrag.atom" title="Massiver Gewinneinbruch bei TalkTalk nach Hackerangriff">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/5/8/4/talktalk-2d3ebe37bcc709ed.jpeg" alt="Massiver Gewinneinbruch bei TalkTalk nach Hackerangriff" />
+                    
+                </a>
+                <p>Wie ernst der Verlust von Kundendaten sein kann, musste der britische Provider TalkTalk nun erfahren:  Der Gewinn der Firma brach als Reaktion auf das Datenleck im Oktober um mehr als die Hälfte ein.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Mozilla verlangt vom FBI Informationen über potenzielle Sicherheitslücken im Tor-Browser</title>
+        <id>http://heise.de/-3207142</id>
+        <updated>2016-05-12T14:57:45+02:00</updated>
+        <published>2016-05-12T14:57:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Mozilla-verlangt-vom-FBI-Informationen-ueber-potenzielle-Sicherheitsluecken-im-Tor-Browser-3207142.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">In Firefox steckt möglicherweise eine bedeutende Sicherheitslücke. Diese könnte Mozilla in Erfahrung bringen, falls es sich in einem Verfahren um Kinderpornos durchsetzt.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Mozilla-verlangt-vom-FBI-Informationen-ueber-potenzielle-Sicherheitsluecken-im-Tor-Browser-3207142.html?wt_mc=rss.security.beitrag.atom" title="Mozilla verlangt vom FBI Informationen über potenzielle Sicherheitslücken im Tor-Browser">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/5/6/6/Tor-1eccb2b826ec57d3-b0e17c9a9a03a00e.jpeg" alt="Mozilla verlangt vom FBI Informationen über potenzielle Sicherheitslücken im Tor-Browser" />
+                    
+                </a>
+                <p>In Firefox steckt möglicherweise eine bedeutende Sicherheitslücke. Diese könnte Mozilla in Erfahrung bringen, falls es sich in einem Verfahren um Kinderpornos durchsetzt.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Entpacker 7-Zip kann zum Ausführen von Schadcode missbraucht werden</title>
+        <id>http://heise.de/-3206787</id>
+        <updated>2016-05-12T15:43:02+02:00</updated>
+        <published>2016-05-12T14:10:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Entpacker-7-Zip-kann-zum-Ausfuehren-von-Schadcode-missbraucht-werden-3206787.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Über eine Lücke im Kompressions-Tool 7-Zip können Angreifer Schadcode ausführen und eventuell auch den Rechner des Opfers kapern. Besonders brisant: Der Open-Source-Code des Tools steckt auch in Sicherheitssoftware.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Entpacker-7-Zip-kann-zum-Ausfuehren-von-Schadcode-missbraucht-werden-3206787.html?wt_mc=rss.security.beitrag.atom" title="Entpacker 7-Zip kann zum Ausführen von Schadcode missbraucht werden">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/2/3/6/7/7zip-vuln-9a6b1a6edca6e312.jpeg" alt="Entpacker 7-Zip kann zum Ausführen von Schadcode missbraucht werden" />
+                    
+                </a>
+                <p>Über eine Lücke im Kompressions-Tool 7-Zip können Angreifer Schadcode ausführen und eventuell auch den Rechner des Opfers kapern. Besonders brisant: Der Open-Source-Code des Tools steckt auch in Sicherheitssoftware.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Erpressungs-Trojaner: Entschlüsselungs-Tool scheitert an neuer CryptXXX-Version</title>
+        <id>http://heise.de/-3205410</id>
+        <updated>2016-05-12T10:08:38+02:00</updated>
+        <published>2016-05-12T10:08:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Erpressungs-Trojaner-Entschluesselungs-Tool-scheitert-an-neuer-CryptXXX-Version-3205410.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Bis vor kurzem konnten Opfer der Ransomware CryptXXX dank eines kostenlosen Tools wieder Zugriff auf ihre Daten bekommen. Nun hat sich der Schädling weiterentwickelt. </summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Erpressungs-Trojaner-Entschluesselungs-Tool-scheitert-an-neuer-CryptXXX-Version-3205410.html?wt_mc=rss.security.beitrag.atom" title="Erpressungs-Trojaner: Entschlüsselungs-Tool scheitert an neuer CryptXXX-Version">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/1/5/8/7/cryptxxx-bb4dd9e25bb98d89-a2a33c5b15764f99.png" alt="Erpressungs-Trojaner: Entschlüsselungs-Tool scheitert an neuer CryptXXX-Version" />
+                    
+                </a>
+                <p>Bis vor kurzem konnten Opfer der Ransomware CryptXXX dank eines kostenlosen Tools wieder Zugriff auf ihre Daten bekommen. Nun hat sich der Schädling weiterentwickelt. </p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Android Studio und IntelliJ-IDEs erhalten kritische Sicherheitsupdates</title>
+        <id>http://heise.de/-3204544</id>
+        <updated>2016-05-11T17:57:07+02:00</updated>
+        <published>2016-05-11T17:57:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Android-Studio-und-IntelliJ-IDEs-erhalten-kritische-Sicherheitsupdates-3204544.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Android Studio 2.1.1 und die Updates der IntelliJ-IDEs schließen zwei Sicherheitslücken, die unter anderem den Zugang auf das lokale Dateisystem über den integrierten Webserver erlauben.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Android-Studio-und-IntelliJ-IDEs-erhalten-kritische-Sicherheitsupdates-3204544.html?wt_mc=rss.security.beitrag.atom" title="Android Studio und IntelliJ-IDEs erhalten kritische Sicherheitsupdates">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/1/0/4/9/rh-e28d076bf5125d5f.jpeg" alt="Android Studio und IntelliJ-IDEs erhalten kritisches Sicherheitsupdate" />
+                    
+                </a>
+                <p>Android Studio 2.1.1 und die Updates der IntelliJ-IDEs schließen zwei Sicherheitslücken, die unter anderem den Zugang auf das lokale Dateisystem über den integrierten Webserver erlauben.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Weltgrößte Porno-Seite Pornhub zahlt ab sofort Bug Bounties</title>
+        <id>http://heise.de/-3204528</id>
+        <updated>2016-05-12T10:48:59+02:00</updated>
+        <published>2016-05-11T16:45:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Weltgroesste-Porno-Seite-Pornhub-zahlt-ab-sofort-Bug-Bounties-3204528.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Sicherheitsforscher können bis zu 25.000 Dollar damit verdienen, Lücken zu melden. Welch schwerwiegende Folgen ein Angriff auf solch brisante Webseiten haben kann, zeigt ein aktuelles Datenleck beim Fisting-Forum Rosebutt Board.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Weltgroesste-Porno-Seite-Pornhub-zahlt-ab-sofort-Bug-Bounties-3204528.html?wt_mc=rss.security.beitrag.atom" title="Weltgrößte Porno-Seite Pornhub zahlt ab sofort Bug Bounties">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/1/0/3/7/nsfw-hacker-7f6a77d429fdb5a8.jpeg" alt="Weltgrößte Porno-Seite Pornhub zahlt Bug Bounties" />
+                    
+                </a>
+                <p>Sicherheitsforscher können bis zu 25.000 Dollar damit verdienen, Lücken zu melden. Welch schwerwiegende Folgen ein Angriff auf solch brisante Webseiten haben kann, zeigt ein aktuelles Datenleck beim Fisting-Forum Rosebutt Board.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">EU-Parlament weitet Europol-Befugnisse im Anti-Terror-Kampf deutlich aus</title>
+        <id>http://heise.de/-3204547</id>
+        <updated>2016-05-11T15:34:25+02:00</updated>
+        <published>2016-05-11T15:34:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/EU-Parlament-weitet-Europol-Befugnisse-im-Anti-Terror-Kampf-deutlich-aus-3204547.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Der Auftrag von Europol wird auf grenzüberschreitende Kriminalität etwa im Internet und die Terrorismusbekämpfung ausgedehnt, hat das EU-Parlament beschlossen. Die Kooperation mit Firmen wie Facebook oder Google soll gestärkt werden.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/EU-Parlament-weitet-Europol-Befugnisse-im-Anti-Terror-Kampf-deutlich-aus-3204547.html?wt_mc=rss.security.beitrag.atom" title="EU-Parlament weitet Europol-Befugnisse im Anti-Terror-Kampf deutlich aus">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/1/0/5/2/urn-newsml-dpa-com-20090101-150904-99-10826_large_4_3-e41b936ba98bf3a1.jpeg" alt="Europol-Hauptquartier" />
+                    
+                </a>
+                <p>Der Auftrag von Europol wird auf grenzüberschreitende Kriminalität etwa im Internet und die Terrorismusbekämpfung ausgedehnt, hat das EU-Parlament beschlossen. Die Kooperation mit Firmen wie Facebook oder Google soll gestärkt werden.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">DDoS für den guten Zweck: Erpressergruppe caremini spielt Robin Hood</title>
+        <id>http://heise.de/-3204323</id>
+        <updated>2016-05-11T15:26:52+02:00</updated>
+        <published>2016-05-11T14:41:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/DDoS-fuer-den-guten-Zweck-Erpressergruppe-caremini-spielt-Robin-Hood-3204323.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">&amp;quot;Wir sind caremini. Wir sammeln Spenden ein.&amp;quot; Mit diesen Worten beginnt die E-Mail einer Erpressergruppe, die momentan deutschen Webseitenbetreibern droht, deren Server per Denial-of-Service-Attacke aus dem Netz zu prügeln.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/DDoS-fuer-den-guten-Zweck-Erpressergruppe-caremini-spielt-Robin-Hood-3204323.html?wt_mc=rss.security.beitrag.atom" title="DDoS für den guten Zweck: Erpressergruppe caremini spielt Robin Hood">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/0/8/9/8/robin-hood-notts-41c4db9eb168cb31.jpeg" alt="DDoS für den guten Zweck? Erpressergruppe caremini spielt Robin Hood" />
+                    
+                </a>
+                <p>&quot;Wir sind caremini. Wir sammeln Spenden ein.&quot; Mit diesen Worten beginnt die E-Mail einer Erpressergruppe, die momentan deutschen Webseitenbetreibern droht, deren Server per Denial-of-Service-Attacke aus dem Netz zu prügeln.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Hintergrund: Dridex analysiert</title>
+        <id>http://heise.de/-3204362</id>
+        <updated>2016-05-11T14:40:09+02:00</updated>
+        <published>2016-05-11T14:40:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/artikel/Dridex-analysiert-3204362.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Eine kleine Artikelreihe zeigt, wie man einen Bot-Netz-Client mit dem Debugger auseinander nimmt.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/artikel/Dridex-analysiert-3204362.html?wt_mc=rss.security.beitrag.atom" title="Dridex analysiert">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/security/imgs/07/1/8/1/0/9/2/8/Bildschirmfoto_vom_2016-05-11_14-21-58-472eca8bcaeaf5ec.png" alt="" />
+                    
+                </a>
+                <p>Eine kleine Artikelreihe zeigt, wie man einen Bot-Netz-Client mit dem Debugger auseinander nimmt.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">heisec-Webinar: Erpressungs-Trojanern richtig vorbeugen </title>
+        <id>http://heise.de/-3204111</id>
+        <updated>2016-05-11T16:16:33+02:00</updated>
+        <published>2016-05-11T12:20:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/heisec-Webinar-Erpressungs-Trojanern-richtig-vorbeugen-3204111.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">c&amp;apos;t-Redakteur Ronald Eikenberg erklärt, was Admins von Locky &amp;amp; Co zu befürchten haben und wie sie sich einfach und effizient dagegen schützen können.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/heisec-Webinar-Erpressungs-Trojanern-richtig-vorbeugen-3204111.html?wt_mc=rss.security.beitrag.atom" title="heisec-Webinar: Erpressungs-Trojanern richtig vorbeugen ">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/0/7/7/0/Trojaner_700x394-64784a77d0d74f0a.jpeg" alt="heisec-Webinar: Erpressungs-Trojaner - jetzt richtig vorbeugen!" />
+                    
+                </a>
+                <p>c't-Redakteur Ronald Eikenberg erklärt, was Admins von Locky &amp; Co zu befürchten haben und wie sie sich einfach und effizient dagegen schützen können.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">IBM: Watson soll Verbrecher jagen</title>
+        <id>http://heise.de/-3203349</id>
+        <updated>2016-05-11T13:33:59+02:00</updated>
+        <published>2016-05-11T11:53:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/IBM-Watson-soll-Verbrecher-jagen-3203349.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Der Supercomputer Watson soll dafür trainiert werden, Sicherheitsanalysten zur Seite zu stehen. Watson soll nicht nur erfolgte Cyberattacken analysieren, sondern auch vor Angriffen warnen und Abwehrmaßnahmen vorschlagen können.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/IBM-Watson-soll-Verbrecher-jagen-3203349.html?wt_mc=rss.security.beitrag.atom" title="IBM: Watson soll Verbrecher jagen">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/0/3/4/0/Bildschirmfoto_vom_2016-05-11_11-23-38-3f107b492f89f7a7.png" alt="IBM: Watson soll Verbrecher jagen" />
+                    
+                </a>
+                <p>Der Supercomputer Watson soll dafür trainiert werden, Sicherheitsanalysten zur Seite zu stehen. Watson soll nicht nur erfolgte Cyberattacken analysieren, sondern auch vor Angriffen warnen und Abwehrmaßnahmen vorschlagen können.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>
+        <title type="text">Adobe-Patchday: Fix für Flash-Zero-Day erst mal nur für Windows</title>
+        <id>http://heise.de/-3203019</id>
+        <updated>2016-05-11T11:28:16+02:00</updated>
+        <published>2016-05-11T11:17:00+02:00</published>
+        <link rel="alternate" type="text/html" href="http://www.heise.de/security/meldung/Adobe-Patchday-Fix-fuer-Flash-Zero-Day-erst-mal-nur-fuer-Windows-3203019.html?wt_mc=rss.security.beitrag.atom" />
+        <summary type="html">Adobe schließt 92 Sicherheitslücken im Reader und ColdFusion-Server bekommen einen Hotfix. Ein Update für eine kritische Flash-Lücke, die bereits aktiv für Angriffe missbraucht wird, steht allerdings noch aus. Nur Microsoft-Nutzer erhalten hier Hilfe.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <a href="http://www.heise.de/security/meldung/Adobe-Patchday-Fix-fuer-Flash-Zero-Day-erst-mal-nur-fuer-Windows-3203019.html?wt_mc=rss.security.beitrag.atom" title="Adobe-Patchday: Fix für Flash-Zero-Day erst mal nur für Windows">
+                    
+                        <img src="http://www.heise.de/scale/geometry/264/q80/imgs/18/1/8/1/0/1/5/1/adobe-patchday-neu-fc07f8210bbef73a.png" alt="Adobe-Patchday: Fix für Flash-Zero-Day erst mal nur für Windows" />
+                    
+                </a>
+                <p>Adobe schließt 92 Sicherheitslücken im Reader und ColdFusion-Server bekommen einen Hotfix. Ein Update für eine kritische Flash-Lücke, die bereits aktiv für Angriffe missbraucht wird, steht allerdings noch aus. Nur Microsoft-Nutzer erhalten hier Hilfe.</p>
+            </div>
+        </content>
+    </entry>
+</feed>
+

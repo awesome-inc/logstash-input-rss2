@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Schneier on Security</title>
+    <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/" />
+    <link rel="self" type="application/atom+xml" href="https://www.schneier.com/blog/atom.xml" />
+    <id>tag:www.schneier.com,2014-06-11:/blog//2</id>
+    <updated>2016-05-19T11:10:17Z</updated>
+    <subtitle>A blog covering security and security technology.</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro</generator>
+    <entry>
+        <title>Identifying People from Their Metadata</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/identifying_peo_6.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9396</id>
+        <published>2016-05-19T11:10:17Z</published>
+        <updated>2016-05-19T11:10:17Z</updated>
+        <summary>Jonathan Mayer, Patrick Mutchler, and John C. Mitchell, &quot;Evaluating the privacy properties of telephone metadata&quot;: Abstract: Since 2013, a stream of disclosures has prompted reconsideration of surveillance law and policy. One of the most controversial principles, both in the United States and abroad, is that communications metadata receives substantially less protection than communications content. Several nations currently collect telephone metadata...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="academicpapers" label="academic papers" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="anonymity" label="anonymity" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="crowdsourcing" label="crowdsourcing" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="identification" label="identification" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="metadata" label="metadata" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="phones" label="phones" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="privacy" label="privacy" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="sms" label="SMS" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="surveillance" label="surveillance" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>Jonathan Mayer, Patrick Mutchler, and John C. Mitchell, "<a href="http://www.pnas.org/content/113/20/5536.full">Evaluating the privacy properties of telephone metadata</a>":</p><blockquote><p><b>Abstract</b>: Since 2013, a stream of disclosures has prompted reconsideration of surveillance law and policy. One of the most controversial principles, both in the United States and abroad, is that communications metadata receives substantially less protection than communications content. Several nations currently collect telephone metadata in bulk, including on their own citizens. In this paper, we attempt to shed light on the privacy properties of telephone metadata. Using a crowdsourcing methodology, we demonstrate that telephone metadata is densely interconnected, can trivially be reidentified, and can be used to draw sensitive inferences.</p></blockquote><p>New research, but not a new result. There have been several similar studies over the years. This one uses only anonymized call and SMS metadata to identify people who volunteered for the study.</p><p><a href="https://news.stanford.edu/2016/05/16/stanford-computer-scientists-show-telephone-metadata-can-reveal-surprisingly-sensitive-personal-information/">Four</a><a href="http://techcrunch.com/2016/05/17/stanford-quantifies-the-privacy-stripping-power-of-metadata/">assorted</a><a href="https://www.theguardian.com/science/2016/may/16/even-basic-phone-logs-can-reveal-deeply-personal-information-researchers-find">news <a href="http://www.dailydot.com/politics/surveillance-phone-metadata-identifiable-stanford-study/">articles</a>.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Primitive Food Crops and Security</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/primitive_food_.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9395</id>
+        <published>2016-05-18T14:11:54Z</published>
+        <updated>2016-05-18T14:11:54Z</updated>
+        <summary>Economists argue that the security needs of various crops are the cause of civilization size: The argument depends on the differences between how grains and tubers are grown. Crops like wheat are harvested once or twice a year, yielding piles of small, dry grains. These can be stored for long periods of time and are easily transported ­ or stolen....</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="historyofsecurity" label="history of security" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="naturalsecurity" label="natural security" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>Economists <a href="https://www.washingtonpost.com/news/wonk/wp/2016/04/25/the-secret-ancient-history-of-the-potato-that-could-change-the-story-of-civilization/">argue</a> that the security needs of various crops are the cause of civilization size:</p><blockquote><p>The argument depends on the differences between how grains and tubers are grown. Crops like wheat are harvested once or twice a year, yielding piles of small, dry grains. These can be stored for long periods of time and are easily transported ­ or stolen.
+
+<p>Root crops, on the other hand, don't store well at all. They're heavy, full of water, and rot quickly once taken out of the ground. Yuca, for instance, grows year-round and in ancient times, people only dug it up right before it was eaten. This provided some protection against theft in ancient times. It's hard for bandits to make off with your harvest when most of it is in the ground, instead of stockpiled in a granary somewhere.</p><p>But the fact that grains posed a security risk may have been a blessing in disguise. The economists believe that societies cultivating crops like wheat and barley may have experienced extra pressure to protect their harvests, galvanizing the creation of warrior classes and the development of complex hierarchies and taxation schemes.</p></blockquote>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>More NSA Documents from the Snowden Archive</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/more_nsa_docume.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9394</id>
+        <published>2016-05-17T11:18:39Z</published>
+        <updated>2016-05-17T11:18:39Z</updated>
+        <summary>The Intercept is starting to publish a lot more documents. Yesterday they published the first year of an internal newsletter called SIDtoday, along with several articles based on the documents. The Intercept&apos;s first SIDtoday release comprises 166 articles, including all articles published between March 31, 2003, when SIDtoday began, and June 30, 2003, plus installments of all article series begun...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="edwardsnowden" label="Edward Snowden" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="nsa" label="NSA" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>The <i>Intercept</i> is starting to publish a lot more documents. Yesterday they published the<a href="https://theintercept.com/snowden-sidtoday/">first year</a> of an internal newsletter called SIDtoday, along with several articles based on the documents.</p><blockquote><p>The <i>Intercept</i>'s first<i>SIDtoday</i> release comprises 166 articles, including all articles published between March 31, 2003, when<i>SIDtoday</i> began, and June 30, 2003, plus installments of all article series begun during this period through the end of the year. Major topics include the National Security Agency's role in interrogations, the Iraq War, the war on terror, new leadership in the Signals Intelligence Directorate, and new, popular uses of the internet and of mobile computing devices.</p></blockquote><p>They're also <a href="https://theintercept.com/2016/05/16/the-intercept-is-broadening-access-to-the-snowden-archive-heres-why/">making the archive available</a> to more researchers.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Unforeseen Costs of Security Training</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/unforeseen_cost.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9393</id>
+        <published>2016-05-16T22:15:50Z</published>
+        <updated>2016-05-16T22:15:50Z</updated>
+        <summary>At the last match of the year for Manchester United, someone found a bomb in a toilet, and security evacuated all 75,000 people and canceled the match. Turns out it was a fake bomb left behind after a recent training exercise....</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="alarms" label="alarms" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="bombs" label="bombs" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="falsepositives" label="false positives" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="sports" label="sports" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="terrorism" label="terrorism" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="uk" label="UK" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>At the last match of the year for Manchester United, <a href="https://www.theguardian.com/football/2016/may/15/manchester-united-abandon-final-premier-league-game-after-security-alert-leads-to-old-trafford-evacuation">someone found a bomb</a> in a toilet, and security evacuated all 75,000 people and canceled the match. Turns out it was a fake bomb left behind after a recent training exercise.<br /></p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Defeating a Tamper-Proof Bottle</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/defeating_a_tam.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9391</id>
+        <published>2016-05-16T11:03:46Z</published>
+        <updated>2016-05-16T14:39:28Z</updated>
+        <summary>Here&apos;s an interesting case of doctored urine-test samples from the Sochi Olympics. Evidence points to someone defeating the tamper resistance of the bottles: Berlinger bottles come in sets of two: one for the athlete&apos;s &quot;A&quot; sample, which is tested at the Games, and the other for the &quot;B&quot; sample, which is used to corroborate a positive test of the A...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="cheating" label="cheating" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="sports" label="sports" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="tamperdetection" label="tamper detection" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>Here's an <a href="http://www.nytimes.com/2016/05/14/sports/russia-doping-bottles-olympics-2014.html">interesting case</a> of doctored urine-test samples from the Sochi Olympics. Evidence points to someone defeating the tamper resistance of the bottles:</p><blockquote><p>Berlinger bottles come in sets of two: one for the athlete's "A" sample, which is tested at the Games, and the other for the "B" sample, which is used to corroborate a positive test of the A sample. Metal teeth in the B bottle's cap lock in place, so it cannot be twisted off.
+
+<p>"The bottles are either destroyed or retain visible traces of tampering if any unauthorized attempt is made to open them," Berlinger's website says about the security of the bottles.</p><p>The only way to open the bottle, according to Berlinger, is to use a special machine sold by the company for about $2,000; it cracks the bottle's cap in half, making it apparent that the sample has been touched.</p></blockquote><p>Yet someone figured out how to open the bottles, swap out the liquid, and replace the caps without leaving any visible signs of tampering.</p><p>EDITED TO ADD: There's a <a href="http://www.nytimes.com/interactive/2016/05/13/sports/russia-doping-sochi-olympics-2014.html">new article</a> on how they did it.</p><blockquote><p>In Room 124, Dr. Rodchenkov received the sealed bottles through the hole and handed them to a man who he believed was a Russian intelligence officer. The man took the bottles to a building nearby. Within a few hours, the bottles were returned with the caps loose and unbroken.</p></blockquote><p>One commenter complained that I called the bottles "tamper-proof," even though I used the more accurate phrase "tamper-resistance" in the post. Yes, that was sloppy.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Friday Squid Blogging: Counterfeit Squid</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/friday_squid_bl_526.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9389</id>
+        <published>2016-05-13T21:14:09Z</published>
+        <updated>2016-05-13T21:14:09Z</updated>
+        <summary>Goya is facing a $5 million lawsuit; the plaintiff is claiming its canned octopus is really squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&apos;t covered....</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="fraud" label="fraud" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="squid" label="squid" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>Goya is facing a <a href="http://www.businessinsider.com/5-million-lawsuit-claims-goya-octopus-squid-2016-5">$5 million lawsuit</a>; the plaintiff is claiming its canned octopus is really squid.</p><p>As usual, you can also use this squid post to talk about the security stories in the news that I haven't covered.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Scam or Satire?</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/scam_or_satire.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9390</id>
+        <published>2016-05-13T18:50:18Z</published>
+        <updated>2016-05-13T18:50:18Z</updated>
+        <summary>You decide....</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="dataprotection" label="data protection" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="hacking" label="hacking" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="snakeoil" label="snake oil" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>You <a href="https://www.kickstarter.com/projects/datagatekeeper/datagatekeeper-the-first-impenetrable-anti-hacking/description">decide</a>.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>More on the Going Dark Debate</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/more_on_the_goi.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9388</id>
+        <published>2016-05-13T11:55:46Z</published>
+        <updated>2016-05-13T11:55:46Z</updated>
+        <summary>Lawfare is turning out to be the go-to blog for policy wonks about various government debates on cybersecurity. There are two good posts this week on the Going Dark debate. The first is from those of us who wrote the &quot;Keys Under Doormats&quot; paper last year, criticizing the concept of backdoors and key escrow. We were responding to a half-baked...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="backdoors" label="backdoors" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="cryptowars" label="crypto wars" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="cybersecurity" label="cybersecurity" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="keyescrow" label="key escrow" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="nationalsecuritypolicy" label="national security policy" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p><a href="https://www.lawfareblog.com/">Lawfare</a> is turning out to be the go-to blog for policy wonks about various government debates on cybersecurity. There are two good posts this week on the Going Dark debate.</p><p><a href="https://www.lawfareblog.com/warning-signs-checklist-recognizing-flaws-proposed-exceptional-access-systems">The first</a> is from those of us who wrote the "<a href="https://www.lawfareblog.com/keys-under-doormats-mandating-insecurity">Keys Under Doormats</a>" paper last year, criticizing the concept of backdoors and key escrow. We were responding to a half-baked proposal on how to give the government access without causing widespread insecurity, and we pointed out where almost of all of these sorts of proposals fall short:</p><blockquote><p>1. Watch for systems that rely on a single powerful key or a small set of them.
+
+<p>2. Watch for systems using high-value keys over and over and still claiming not to increase risk.</p><p>3. Watch for the claim that the abstract algorithm alone is the measure of system security.</p><p>4. Watch for the assumption that scaling anything on the global Internet is easy.</p><p>5. Watch for the assumption that national borders are not a factor.</p><p>6. Watch for the assumption that human rights and the rule of law prevail throughout the world.</p></blockquote><p><a href="https://www.lawfareblog.com/setting-straw-man-odnis-letter-response-dont-panic">The second</a> is by Susan Landau, and is a response to the ODNI's response to the "<a href="https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont_Panic_Making_Progress_on_Going_Dark_Debate.pdf">Don't Panic</a>" report. Our original report said basically that the FBI wasn't going dark and that surveillance information is everywhere. At a Senate hearing, Sen. Wyden requested that the Office of the Director of National Intelligence respond to the report. It<a href="https://www.wyden.senate.gov/download/?id=3F716160-095E-420E-93F3-849453EB61B2&download=1">did</a> -- not very well, honestly -- and Landau responded to that response. She pointed out that there really wasn't much disagreement: that the points it claimed to have issue with were actually points we made and agreed with.</p><blockquote><p>In the end, the ODNI's response to our report leaves me somewhat confused. The reality is that the only strong disagreement seems to be with an exaggerated view of one finding. It almost appears as if ODNI is using the Harvard report as an opportunity to say, "Widespread use of encryption will make our work life more difficult." Of course it will. Widespread use of encryption will also help prevent some of the cybersecurity exploits and attacks we have been experiencing over the last decade. The ODNI letter ignored that issue.</p></blockquote><p>EDITED TO ADD: Related is <a href="https://www.washingtonpost.com/world/national-security/comey-defends-fbis-purchase-of-iphone-hacking-tool/2016/05/11/ce7eae54-1616-11e6-924d-838753295f9a_story.html?postshare=2391463017543104&tid=ss_tw">this article</a> where James Comey defends spending $1M+ on that iPhone vulnerability. There's some good discussion of the vulnerabilities equities process, and the FBI's technical lack of sophistication.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>Hacking Gesture-Based Security</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/hacking_gesture.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9385</id>
+        <published>2016-05-12T10:31:34Z</published>
+        <updated>2016-05-12T10:31:34Z</updated>
+        <summary>Interesting research: Abdul Serwadda, Vir V. Phoha, Zibo Wang, Rajesh Kumar, and Diksha Shukla, &quot;Robotic Robbery on the Touch Screen,&quot; ACM Transactions on Information and System Security, May 2016. Abstract: Despite the tremendous amount of research fronting the use of touch gestures as a mechanism of continuous authentication on smart phones, very little research has been conducted to evaluate how...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="academicpapers" label="academic papers" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="authentication" label="authentication" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="hacking" label="hacking" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>Interesting research: Abdul Serwadda, Vir V. Phoha, Zibo Wang, Rajesh Kumar, and Diksha Shukla, "<a href="https://dl.acm.org/citation.cfm?id=2898353">Robotic Robbery on the Touch Screen</a>,"<i>ACM Transactions on Information and System Security</i>, May 2016.</p><blockquote><p><b>Abstract</b>: Despite the tremendous amount of research fronting the use of touch gestures as a mechanism of continuous authentication on smart phones, very little research has been conducted to evaluate how these systems could behave if attacked by sophisticated adversaries. In this article, we present two Lego-driven robotic attacks on touch-based authentication: a population statistics-driven attack and a user-tailored attack. The population statistics-driven attack is based on patterns gleaned from a large population of users, whereas the user-tailored attack is launched based on samples stolen from the victim. Both attacks are launched by a Lego robot that is trained on how to swipe on the touch screen. Using seven verification algorithms and a large dataset of users, we show that the attacks cause the system's mean false acceptance rate (FAR) to increase by up to fivefold relative to the mean FAR seen under the standard zero-effort impostor attack. The article demonstrates the threat that robots pose to touch-based authentication and provides compelling evidence as to why the zero-effort attack should cease to be used as the benchmark for touch-based authentication systems.</p></blockquote><p>News <a href="http://motherboard.vice.com/read/lego-driven-robot-programmed-to-hack-touch-screen-authentication-systems">article</a>. Slashdot<a href="https://it.slashdot.org/story/16/05/08/2135234/lego-robots-crack-gesture-based-security">thread</a>.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+    <entry>
+        <title>FTC Investigating Android Patching Practices</title>
+        <link rel="alternate" type="text/html" href="https://www.schneier.com/blog/archives/2016/05/ftc_investigati.html" />
+        <id>tag:www.schneier.com,2016:/blog//2.9387</id>
+        <published>2016-05-11T19:37:37Z</published>
+        <updated>2016-05-13T11:56:40Z</updated>
+        <summary>It&apos;s a known truth that most Android vulnerabilities don&apos;t get patched. It&apos;s not Google&apos;s fault. It releases the patches, but the phone carriers don&apos;t push them down to their smartphone users. Now the Federal Communications Commission and the Federal Trade Commission are investigating, sending letters to major carriers and device makers. I think this is a good thing. This is...</summary>
+        <author>
+            <name>Bruce Schneier</name>
+        </author>
+        <category term="android" label="Android" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="cellphones" label="cell phones" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="google" label="Google" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="nationalsecuritypolicy" label="national security policy" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="patching" label="patching" scheme="http://www.sixapart.com/ns/types#tag" />
+        <category term="vulnerabilities" label="vulnerabilities" scheme="http://www.sixapart.com/ns/types#tag" />
+        <content type="html" xml:lang="en-us" xml:base="https://www.schneier.com/blog/">
+            <![CDATA[<p>It's a known truth that most Android vulnerabilities <a href="https://threatpost.com/aclu-asks-ftc-to-investigate-carriers-lack-of-android-security-updates/99768/">don't get patched</a>. It's not Google's fault. It releases the patches, but the phone carriers don't push them down to their smartphone users.</p><p>Now the Federal Communications Commission and the Federal Trade Commission  are <a href="https://threatpost.com/fcc-ftc-investigate-mobile-security-update-practices/117972/">investigating</a>,<a href="https://transition.fcc.gov/Daily_Releases/Daily_Business/2016/db0509/DOC-339256A2.pdf">sending</a><a href="https://www.ftc.gov/system/files/attachments/press-releases/ftc-study-mobile-device-industrys-security-update-practices/160509mobilesecuritymodelorder.pdf">letters</a> to major carriers and device makers.</p><p>I think this is a good thing. This is a long-existing market failure, and a place where we need government regulation to make us all more secure.</p>]]>
+			
+		
+    
+        </content>
+    </entry>
+</feed>

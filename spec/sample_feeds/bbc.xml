@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BBC News - Home</title>
+        <link>http://www.bbc.co.uk/news/front_page</link>
+        <description>The latest stories from the Home section of the BBC News web site.</description>
+        <language>en-gb</language>
+        <lastBuildDate>Thu, 19 May 2016 15:32:51 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/front_page</link>
+            <width>120</width>
+            <height>60</height>
+        </image>
+        <ttl>15</ttl>
+        <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Crash jet made 'sharp turns and plunged'</title>
+            <description>An EgyptAir flight from Paris to Cairo made two sharp turns before plunging into the Mediterranean Sea, Greece's defence minister says.</description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-36333992#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-36333992</guid>
+            <pubDate>Thu, 19 May 2016 15:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title>Eleven children hurt in park dog attack</title>
+            <description>A woman is arrested after 11 children were bitten, leaving one needing skin grafts, during a dog attack in a play park.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-tyne-36330540#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-tyne-36330540</guid>
+            <pubDate>Thu, 19 May 2016 11:34:42 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/11295/production/_89739207_de33.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14D2D/production/_89739258_de33.jpg"/>
+        </item>
+        <item>
+            <title>Muirfield loses Open chance after vote</title>
+            <description>Muirfield will not stage another Open Championship after keeping its ban on women members in a vote described as "indefensible".</description>
+            <link>http://www.bbc.co.uk/sport/0/golf/36331270</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/golf/36331270</guid>
+            <pubDate>Thu, 19 May 2016 15:31:08 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/09DC/production/_89742520_muirfieldnew_getty.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/30EC/production/_89742521_muirfieldnew_getty.jpg"/>
+        </item>
+        <item>
+            <title>Celebrity injunction upheld, court rules</title>
+            <description>An injunction banning media in England and Wales from naming a celebrity involved in an alleged affair should stay in place, the Supreme Court says.</description>
+            <link>http://www.bbc.co.uk/news/uk-36329818#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36329818</guid>
+            <pubDate>Thu, 19 May 2016 15:21:13 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/E531/production/_89737685_breaking_image_large-3.png"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10C41/production/_89737686_breaking_image_large-3.png"/>
+        </item>
+        <item>
+            <title>Man held over Buckingham Palace breach</title>
+            <description>A man has been arrested in the grounds of Buckingham Palace after scaling a perimeter wall, police in London say.</description>
+            <link>http://www.bbc.co.uk/news/uk-36332740#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36332740</guid>
+            <pubDate>Thu, 19 May 2016 14:45:21 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/15A61/production/_89737688_breaking_image_large-3.png"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/18171/production/_89737689_breaking_image_large-3.png"/>
+        </item>
+        <item>
+            <title>Man 'killed by wife with stone frog'</title>
+            <description>A man found wrapped in plastic in his garden was unlawfully killed, a coroner concludes.</description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-36330451#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-wales-south-east-wales-36330451</guid>
+            <pubDate>Thu, 19 May 2016 14:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>BMA fears 'uphill struggle' to sell deal</title>
+            <description>Junior doctors' leaders fear they could face an "uphill struggle" to convince the profession to accept the new contract agreed with ministers.</description>
+            <link>http://www.bbc.co.uk/news/health-36330589#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/health-36330589</guid>
+            <pubDate>Thu, 19 May 2016 12:06:50 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/E97D/production/_89737795_896e1aa9-a660-47c0-9356-3e5506e82301.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1108D/production/_89737796_896e1aa9-a660-47c0-9356-3e5506e82301.jpg"/>
+        </item>
+        <item>
+            <title>Ex 'tried to protect' Paris attacks Brit</title>
+            <description>The ex-girlfriend of a British man killed in the Paris attacks describes how she tried to save "the love of her life" after he was shot.</description>
+            <link>http://www.bbc.co.uk/news/uk-england-essex-36331733#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-essex-36331733</guid>
+            <pubDate>Thu, 19 May 2016 11:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Vauxhall Zafiras recalled over fire risk</title>
+            <description>More than 234,000 Vauxhall Zafiras have been recalled for a second time over an engine problem that has caused some cars to burst into flames.</description>
+            <link>http://www.bbc.co.uk/news/business-36330439#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/business-36330439</guid>
+            <pubDate>Thu, 19 May 2016 15:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Memorial service for Holocaust hero</title>
+            <description>A memorial service is being held for Sir Nicholas Winton, who rescued hundreds of children in Czechoslovakia from the Holocaust before World War Two.</description>
+            <link>http://www.bbc.co.uk/news/uk-36325187#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36325187</guid>
+            <pubDate>Thu, 19 May 2016 15:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cigarette pack changes upheld by court</title>
+            <description>Plain packaging rules for tobacco will be introduced on Friday after a legal challenge against the new law was dismissed by the High Court.</description>
+            <link>http://www.bbc.co.uk/news/uk-36333450#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36333450</guid>
+            <pubDate>Thu, 19 May 2016 13:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title>VIDEO: Motorists capture Vauxhall Zafira fires</title>
+            <description>Car manufacturer Vauxhall has recalled its Zafira model for a second time over a fire risk.</description>
+            <link>http://www.bbc.co.uk/news/business-36334673#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/business-36334673</guid>
+            <pubDate>Thu, 19 May 2016 14:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title>VIDEO: Body hidden in garden for two decades</title>
+            <description>An inquest has been opened into the death of a man whose body lay undiscovered in a back garden in south Wales for nearly two decades.</description>
+            <link>http://www.bbc.co.uk/news/uk-36334231#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36334231</guid>
+            <pubDate>Thu, 19 May 2016 13:23:50 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/1218C/production/_89742147_89742141.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1489C/production/_89742148_89742141.jpg"/>
+        </item>
+        <item>
+            <title>VIDEO: Seven days inside Wandsworth prison</title>
+            <description>The BBC has gained exclusive access inside Wandsworth prison, where violence and drugs are rife, and staff overstretched.</description>
+            <link>http://www.bbc.co.uk/news/uk-36327325#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36327325</guid>
+            <pubDate>Wed, 18 May 2016 17:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title>VIDEO: BBC traces Hillsborough match commander</title>
+            <description>The former match commander in charge on the day of the Hillsborough disaster has declined to comment on the inquests' unlawful killing conclusion.</description>
+            <link>http://www.bbc.co.uk/news/uk-36324447#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36324447</guid>
+            <pubDate>Wed, 18 May 2016 18:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title>VIDEO: How 'walking football' helps depressed men</title>
+            <description>As a survey by the Mental Health Foundation suggests older men are less likely to recognise the importance of relationships, Graham Satchell meets a group of 'walking footballers'.</description>
+            <link>http://www.bbc.co.uk/news/health-36329589#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/health-36329589</guid>
+            <pubDate>Thu, 19 May 2016 09:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title>VIDEO: Teen golf star aims for McIlroy success</title>
+            <description>Rising golf star To McKibbin joins Rory McIlroy on the Irish Open course.</description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-36329712#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-36329712</guid>
+            <pubDate>Thu, 19 May 2016 07:51:48 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/15ABB/production/_89736788_rorytom.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/181CB/production/_89736789_rorytom.jpg"/>
+        </item>
+        <item>
+            <title>Views of EU from the world's longest pleasure pier</title>
+            <description>David Eades reports from Southend, polled as one of the Britain's most Eurosceptic towns, ahead of June's referendum.</description>
+            <link>http://www.bbc.co.uk/news/uk-36322499#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36322499</guid>
+            <pubDate>Thu, 19 May 2016 00:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title>Rescued Chibok girl: Who is Amina Ali Nkeki?</title>
+            <description>What do we know about the woman who was rescued two years after being kidnapped by the Nigerian Islamist militant group Boko Haram?</description>
+            <link>http://www.bbc.co.uk/news/world-africa-36330379#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-36330379</guid>
+            <pubDate>Thu, 19 May 2016 10:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title>The UK's EU vote: All you need to know</title>
+            <description>The UK is set to have a referendum on 23 June on whether or not to remain a member of the European Union. Here's a guide.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-32810887#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-32810887</guid>
+            <pubDate>Tue, 17 May 2016 09:15:14 GMT</pubDate>
+            <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/83155000/jpg/_83155779_83155770.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/83155000/jpg/_83155892_83155770.jpg"/>
+        </item>
+        <item>
+            <title>Flat priced at £1 sells for £20,000</title>
+            <description>A home in Lanarkshire advertised for just £1 is bought by an American living in Texas in an auction.</description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-glasgow-west-36333630#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-glasgow-west-36333630</guid>
+            <pubDate>Thu, 19 May 2016 11:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cows cause M1 traffic to mooo-ve slowly</title>
+            <description>Three runaway cows cause long delays for drivers on the M1 in County Antrim.</description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-36329711#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-36329711</guid>
+            <pubDate>Thu, 19 May 2016 09:20:52 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/223B/production/_89736780_peye190516kb40002.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/494B/production/_89736781_peye190516kb40002.jpg"/>
+        </item>
+        <item>
+            <title>Federer withdraws from French Open</title>
+            <description>Roger Federer withdraws from this year's French Open because of back injury.</description>
+            <link>http://www.bbc.co.uk/sport/0/tennis/36336722</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/tennis/36336722</guid>
+            <pubDate>Thu, 19 May 2016 15:36:58 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/ECE4/production/_89744606_breakingnews.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/113F4/production/_89744607_breakingnews.jpg"/>
+        </item>
+        <item>
+            <title>'Sharapova may never play again'</title>
+            <description>Maria Sharapova may never play again following her positive drugs test, says the president of the Russian Tennis Federation.</description>
+            <link>http://www.bbc.co.uk/sport/0/tennis/36331448</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/tennis/36331448</guid>
+            <pubDate>Thu, 19 May 2016 10:49:32 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/11619/production/_89739117_tennis.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/15881/production/_89739188_tennis.jpg"/>
+        </item>
+        <item>
+            <title>Transfer funds key to Benitez decision</title>
+            <description>Rafael Benitez's decision whether to stay on as Newcastle manager will depend on the amount of transfer funds he receives.</description>
+            <link>http://www.bbc.co.uk/sport/0/football/36331354</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/36331354</guid>
+            <pubDate>Thu, 19 May 2016 13:19:16 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/9E7E/production/_88547504_newcastle-united.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C58E/production/_88547505_newcastle-united.jpg"/>
+        </item>
+        <item>
+            <title>How does sport help with dementia?</title>
+            <description>BBC Radio 5 live presenter Eleanor Oldroyd examines the different ways in which sport is helping people with dementia.</description>
+            <link>http://www.bbc.co.uk/sport/0/get-inspired/36327418</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/get-inspired/36327418</guid>
+            <pubDate>Thu, 19 May 2016 10:09:59 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/12C2B/production/_89734867_tennis.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1533B/production/_89734868_tennis.jpg"/>
+        </item>
+        <item>
+            <title>Asda sales slump again amid price war</title>
+            <description>Supermarket Asda reports a 5.7% fall in like-for-like sales during the first quarter of the year, while parent company Walmart's profits fall again.</description>
+            <link>http://www.bbc.co.uk/news/business-36333861#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/business-36333861</guid>
+            <pubDate>Thu, 19 May 2016 14:22:29 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/C0A2/production/_89741394_86741274.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/E7B2/production/_89741395_86741274.jpg"/>
+        </item>
+        <item>
+            <title>Over-60s take to contactless cards</title>
+            <description>Britons over the age of 60 are the fastest growing group of people taking to contactless card payments, according to Barclaycard.</description>
+            <link>http://www.bbc.co.uk/news/business-36332607#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/business-36332607</guid>
+            <pubDate>Thu, 19 May 2016 12:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title>Cameron facing defeat over TTIP deal</title>
+            <description>David Cameron is facing defeat on a Queen's Speech vote over a controversial trade deal between the EU and US that Tory rebels claim will harm the NHS.</description>
+            <link>http://www.bbc.co.uk/news/uk-politics-eu-referendum-36332415#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-eu-referendum-36332415</guid>
+            <pubDate>Thu, 19 May 2016 14:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title>MP brands voter 'a horrible racist'</title>
+            <description>An MP and shadow Europe minister is recorded calling a voter a "horrible racist".</description>
+            <link>http://www.bbc.co.uk/news/uk-england-derbyshire-36334488#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-derbyshire-36334488</guid>
+            <pubDate>Thu, 19 May 2016 15:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title>Superbugs to 'kill every three seconds'</title>
+            <description>Superbugs will kill someone every three seconds by 2050 unless the world acts now, a report says.</description>
+            <link>http://www.bbc.co.uk/news/health-36321394#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/health-36321394</guid>
+            <pubDate>Thu, 19 May 2016 05:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Instant aspirin advice for minor stroke</title>
+            <description>People should consider taking aspirin immediately after mini or minor stroke to prevent or limit the harm caused by further strokes, researchers say.</description>
+            <link>http://www.bbc.co.uk/news/health-36320833#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/health-36320833</guid>
+            <pubDate>Wed, 18 May 2016 23:24:59 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/17D74/production/_89725679_aspirinc0203642-aspirin_tablets%2C_artwork-spl.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/FC79/production/_89733646_aspirinc0203642-aspirin_tablets%2C_artwork-spl.jpg"/>
+        </item>
+        <item>
+            <title>Pledge to act over term-time holidays</title>
+            <description>Nick Gibb reiterates a pledge to take all measures necessary to enforce a ban on term-time holidays after a High Court ruling.</description>
+            <link>http://www.bbc.co.uk/news/education-36332114#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/education-36332114</guid>
+            <pubDate>Thu, 19 May 2016 11:33:33 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/5139/production/_89739702_beach2kids.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7849/production/_89739703_beach2kids.jpg"/>
+        </item>
+        <item>
+            <title>Adoption reform 'to hasten placements'</title>
+            <description>A shake-up of adoption rules in England that aims to move more children more quickly from the care system to family life is unveiled in the Queen's Speech.</description>
+            <link>http://www.bbc.co.uk/news/education-36321135#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/education-36321135</guid>
+            <pubDate>Wed, 18 May 2016 14:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title>'Sticky car' could reduce crash injury</title>
+            <description>Google patents a sticky coating for driverless cars that could reduce damage done to pedestrians in the event of a collision.</description>
+            <link>http://www.bbc.co.uk/news/technology-36332146#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-36332146</guid>
+            <pubDate>Thu, 19 May 2016 13:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title>The bank account that gives you a shock</title>
+            <description>One British firm is seeking to put the buzz back into budgeting by giving bank customers an electric shock if they overspend.</description>
+            <link>http://www.bbc.co.uk/news/technology-36301778#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-36301778</guid>
+            <pubDate>Wed, 18 May 2016 23:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title>Evidence of ancient tsunamis on Mars</title>
+            <description>Scientists suggest that at least two huge tsunamis once swept across the Red Planet, triggered by large impacts.</description>
+            <link>http://www.bbc.co.uk/news/science-environment-36333760#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-36333760</guid>
+            <pubDate>Thu, 19 May 2016 12:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>'Cover-up' row over McDonald's fish</title>
+            <description>A leaked New Zealand government memo casts serious doubts on the sustainability of fish that are widely used in McDonald's restaurants.</description>
+            <link>http://www.bbc.co.uk/news/science-environment-36316246#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-36316246</guid>
+            <pubDate>Thu, 19 May 2016 08:03:35 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/12375/production/_89731647_gettyimages-84709618.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14A85/production/_89731648_gettyimages-84709618.jpg"/>
+        </item>
+        <item>
+            <title>Gilliam resurrects Quixote ‘nightmare’</title>
+            <description>Terry Gilliam says he is resurrecting his troubled Don Quixote film with Monty Python co-star Michael Palin because it is "a dream nightmare" he wants to be rid of.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-36323322#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-36323322</guid>
+            <pubDate>Thu, 19 May 2016 07:44:46 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/BFB1/production/_89737094_img_0280.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/E6C1/production/_89737095_img_0280.jpg"/>
+        </item>
+        <item>
+            <title>Theatre stops critics' free 'plus ones'</title>
+            <description>The National Theatre is to introduce a policy banning critics from bringing so-called "plus ones" free of charge to performances.</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-36330669#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-36330669</guid>
+            <pubDate>Thu, 19 May 2016 11:14:31 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/33D9/production/_89737231_ntpa.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/B331/production/_89737854_ntpa.jpg"/>
+        </item>
+        <item>
+            <title>The Irishman who faked his own kidnapping</title>
+            <description>When a bedraggled man appeared at the side of a road in Ireland claiming he had been abducted, a bizarre tale of fraud and a fake kidnapping started to unfold.</description>
+            <link>http://www.bbc.co.uk/news/magazine-36130610#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-36130610</guid>
+            <pubDate>Sat, 14 May 2016 23:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title>The albino who confronted a witchdoctor</title>
+            <description>Stephane Ebongue has albinism and fled Cameroon to escape being sacrificed - years later he returned to ask a witchdoctor why people like him are used in "magic" potions.</description>
+            <link>http://www.bbc.co.uk/news/magazine-36131711#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-36131711</guid>
+            <pubDate>Mon, 16 May 2016 01:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Traditional industries in the West Bank</title>
+            <description>Traditional Palestinian industries struggle to survive in the West Bank.</description>
+            <link>http://www.bbc.co.uk/news/in-pictures-36168478#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-36168478</guid>
+            <pubDate>Mon, 16 May 2016 23:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title>Teenage mothers tell their stories</title>
+            <description>Teenage mothers from around the world tell their stories</description>
+            <link>http://www.bbc.co.uk/news/in-pictures-36277031#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-36277031</guid>
+            <pubDate>Mon, 16 May 2016 00:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>Barred from voting on their own future</title>
+            <description>The three million people barred from voting on Brexit</description>
+            <link>http://www.bbc.co.uk/news/magazine-36301098#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-36301098</guid>
+            <pubDate>Thu, 19 May 2016 00:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Do the best bosses put off decisions?</title>
+            <description>Why a good boss doesn’t rush to make a difficult decision</description>
+            <link>http://www.bbc.co.uk/news/business-36312422#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/business-36312422</guid>
+            <pubDate>Wed, 18 May 2016 23:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title>Osborne letter pledging to scrap tuition fees surfaces after 13 years</title>
+            <description>Osborne letter pledging to scrap tuition fees comes to light</description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-36323823#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-trending-36323823</guid>
+            <pubDate>Thu, 19 May 2016 01:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Angela Rippon: 'Teach the young about dementia'</title>
+            <description>How children are key to a dementia-friendly future</description>
+            <link>http://www.bbc.co.uk/news/health-36324071#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/health-36324071</guid>
+            <pubDate>Thu, 19 May 2016 00:17:22 GMT</pubDate>
+            <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/152F/production/_89732450_angelaandmum.jpg"/>
+            <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/3C3F/production/_89732451_angelaandmum.jpg"/>
+        </item>
+        <item>
+            <title>Why are US airport security queues so long?</title>
+            <description>Why are US airport security queues so long?</description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-36316366#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-36316366</guid>
+            <pubDate>Wed, 18 May 2016 23:09:34 GMT</pubDate>
+        </item>
+        <item>
+            <title>The place to be a woman in politics</title>
+            <description>The place to be a woman in politics</description>
+            <link>http://www.bbc.co.uk/news/world-asia-36309137#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-36309137</guid>
+            <pubDate>Thu, 19 May 2016 01:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title>Bronte ballet aims for new audiences</title>
+            <description>The ballet company using Bronte to entice new audiences</description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-36312534#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-36312534</guid>
+            <pubDate>Thu, 19 May 2016 00:03:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

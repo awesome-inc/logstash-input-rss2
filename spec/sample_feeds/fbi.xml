@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Cyber Crimes</title>
+        <link>https://www.fbi.gov/news/stories/story-index/cyber-crimes</link>
+        <description></description>
+        <generator>basesyndication</generator>
+        <!-- TODO
+        <lastBuildDate>Mon, 30 Sep 2002 11:00:00 GMT</lastBuildDate><copyright>Copyright 1997-2002 Dave Winer</copyright><docs>http://backend.userland.com/rss</docs><category domain="Syndic8">1765</category><managingEditor>dave@userland.com</managingEditor><webMaster>dave@userland.com</webMaster>
+        -->
+        <!-- TODO: Should there be an individual image associatable with each
+        Weblog object?  I think so... -->
+        <image>
+            <title>Cyber Crimes</title>
+            <url>https://www.fbi.gov/logo.png</url>
+            <link>https://www.fbi.gov/news/stories/story-index/cyber-crimes</link>
+        </image>
+        <item>
+            <title>Child Sexual Exploitation </title>
+            <guid>https://www.fbi.gov/news/stories/2016/may/child-sexual-exploitation/child-sexual-exploitation</guid>
+            <link>https://www.fbi.gov/news/stories/2016/may/child-sexual-exploitation/child-sexual-exploitation</link>
+            <description>A recent case serves as a reminder of the threat posed by pedophiles online.</description>
+            <author>fbi</author>
+            <category>Newark Top Stories</category>
+            <category>Crimes Against Children Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Kansas City Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Child Pornography</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Child Sexual Exploitation</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Crimes Against Children</category>
+            <category>New York Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Top Story</category>
+            <category>Springfield Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Minneapolis Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Child Exploitation</category>
+            <category>Cyber</category>
+            <category>Dallas Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <pubDate>Tue, 10 May 2016 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Incidents of Ransomware on the Rise</title>
+            <guid>https://www.fbi.gov/news/stories/2016/april/incidents-of-ransomware-on-the-rise/incidents-of-ransomware-on-the-rise</guid>
+            <link>https://www.fbi.gov/news/stories/2016/april/incidents-of-ransomware-on-the-rise/incidents-of-ransomware-on-the-rise</link>
+            <description>FBI offers tips to protect yourself and your organization from this growing threat.</description>
+            <author>fbi</author>
+            <category>Little Rock Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Top Story</category>
+            <category>Miami Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Malware</category>
+            <category>Portland Top Stories</category>
+            <category>Ransomware</category>
+            <category>Columbia Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Minneapolis Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>El Paso Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Cyber</category>
+            <category>Cleveland Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <pubDate>Fri, 29 Apr 2016 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Sextortion and Cyberstalking</title>
+            <guid>https://www.fbi.gov/news/stories/2016/april/sextortion-and-cyberstalking/sextortion-and-cyberstalking</guid>
+            <link>https://www.fbi.gov/news/stories/2016/april/sextortion-and-cyberstalking/sextortion-and-cyberstalking</link>
+            <description>One tip uncovered an international scheme by a State Department employee.</description>
+            <author>fbi</author>
+            <category>Columbia Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Field Cases Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Top Story</category>
+            <category>Honolulu Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Cyberstalking</category>
+            <category>Atlanta Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Sacramento Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Field Cases</category>
+            <category>Baltimore Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Sextortion</category>
+            <category>Tampa Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Minneapolis Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <pubDate>Tue, 26 Apr 2016 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Iranians Charged with Hacking U.S. Financial Sector</title>
+            <guid>https://www.fbi.gov/news/stories/2016/march/iranians-charged-with-hacking-us-financial-sector/iranians-charged-with-hacking-us-financial-sector</guid>
+            <link>https://www.fbi.gov/news/stories/2016/march/iranians-charged-with-hacking-us-financial-sector/iranians-charged-with-hacking-us-financial-sector</link>
+            <description>Seven Iranians working on behalf of Iranian government indicted on hacking charges.</description>
+            <author>fbi</author>
+            <category>Financial Crime</category>
+            <category>Boston Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Top Story</category>
+            <category>Honolulu Top Stories</category>
+            <category>Minneapolis Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Mobile Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>International Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>International</category>
+            <category>Albuquerque Top Stories</category>
+            <pubDate>Thu, 24 Mar 2016 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Two From ‘Syrian Electronic Army’ Added to Cyber’s Most Wanted </title>
+            <guid>https://www.fbi.gov/news/stories/2016/march/two-from-syrian-electronic-army-added-to-cybers-most-wanted/two-from-syrian-electronic-army-added-to-cybers-most-wanted</guid>
+            <link>https://www.fbi.gov/news/stories/2016/march/two-from-syrian-electronic-army-added-to-cybers-most-wanted/two-from-syrian-electronic-army-added-to-cybers-most-wanted</link>
+            <description>Three members of a Syrian hacker collective were charged for intrusions into U.S. websites.</description>
+            <author>fbi</author>
+            <category>Pittsburgh Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Top Story</category>
+            <category>Boston Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>International Stories</category>
+            <category>Minneapolis Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <pubDate>Tue, 22 Mar 2016 11:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Lottery Fraud</title>
+            <guid>https://www.fbi.gov/news/stories/2016/march/lottery-fraud/lottery-fraud</guid>
+            <link>https://www.fbi.gov/news/stories/2016/march/lottery-fraud/lottery-fraud</link>
+            <description>Jamaican ringleader of phone scam that targeted elderly victims in the U.S. sentenced to prison.</description>
+            <author>fbi</author>
+            <category>Jacksonville Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>White-Collar Crime Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Anchorage Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Field Cases Stories</category>
+            <category>Field Cases</category>
+            <category>Sacramento Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>White-Collar Crime</category>
+            <category>Louisville Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Top Story</category>
+            <category>New Haven Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <pubDate>Tue, 08 Mar 2016 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>National Cyber Security Awareness Month</title>
+            <guid>https://www.fbi.gov/news/stories/2015/october/national-cyber-security-awareness-month/national-cyber-security-awareness-month</guid>
+            <link>https://www.fbi.gov/news/stories/2015/october/national-cyber-security-awareness-month/national-cyber-security-awareness-month</link>
+            <description>Each October, we’re reminded that securing cyberspace is a shared responsibility.</description>
+            <author>fbi</author>
+            <category>Sacramento Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Cyber Security</category>
+            <category>Public/Community Outreach Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Public/Community Outreach</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Cyber Safety</category>
+            <category>Portland Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Top Story</category>
+            <category>Honolulu Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>San Antonio Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <pubDate>Thu, 01 Oct 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Business E-Mail Compromise</title>
+            <guid>https://www.fbi.gov/news/stories/2015/august/business-e-mail-compromise/business-e-mail-compromise</guid>
+            <link>https://www.fbi.gov/news/stories/2015/august/business-e-mail-compromise/business-e-mail-compromise</link>
+            <description>A sophisticated scam is costing companies worldwide millions of dollars.</description>
+            <author>fbi</author>
+            <category>International Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Fraud</category>
+            <category>New Haven Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Financial Crime</category>
+            <category>Anchorage Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Major Thefts/Violent Crime Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Top Story</category>
+            <category>Chicago Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>International</category>
+            <category>Tampa Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Financial</category>
+            <category>Major Thefts/Violent Crime</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <pubDate>Fri, 28 Aug 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Cyber Criminal Forum Taken Down</title>
+            <guid>https://www.fbi.gov/news/stories/2015/july/cyber-criminal-forum-taken-down/cyber-criminal-forum-taken-down</guid>
+            <link>https://www.fbi.gov/news/stories/2015/july/cyber-criminal-forum-taken-down/cyber-criminal-forum-taken-down</link>
+            <description>Spanning 20 countries, Operation Shrouded Horizon has dismantled an online criminal forum.</description>
+            <author>fbi</author>
+            <category>New Haven Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>International</category>
+            <category>Albuquerque Top Stories</category>
+            <category>International Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Jackson Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Field Cases</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Partnerships Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Field Cases Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Top Story</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Partnerships</category>
+            <category>Omaha Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <pubDate>Wed, 15 Jul 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>FBI Safe Online Surfing Internet Challenge</title>
+            <guid>https://www.fbi.gov/news/stories/2015/june/fbi-safe-online-surfing-internet-challenge/fbi-safe-online-surfing-internet-challenge</guid>
+            <link>https://www.fbi.gov/news/stories/2015/june/fbi-safe-online-surfing-internet-challenge/fbi-safe-online-surfing-internet-challenge</link>
+            <description>Our Safe Online Surfing Internet Challenge just wrapped up its third year with record results.</description>
+            <author>fbi</author>
+            <category>Mobile Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Cyber Security</category>
+            <category>Albany Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>FBI-SOS</category>
+            <category>Chicago Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Cyber Safety</category>
+            <category>Denver Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Public/Community Outreach</category>
+            <category>Richmond Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Public/Community Outreach Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>FBI Safe Online Surfing</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Top Story</category>
+            <category>Philadelphia Top Stories</category>
+            <pubDate>Fri, 12 Jun 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>The Cyber Action Team</title>
+            <guid>https://www.fbi.gov/news/stories/2015/march/the-cyber-action-team/the-cyber-action-team</guid>
+            <link>https://www.fbi.gov/news/stories/2015/march/the-cyber-action-team/the-cyber-action-team</link>
+            <description>Group of rapid deployment cyber experts respond to major computer intrusions.</description>
+            <author>fbi</author>
+            <category>Baltimore Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Knoxville Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>San Diego Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Top Story</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <pubDate>Wed, 04 Mar 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Ransomware on the Rise</title>
+            <guid>https://www.fbi.gov/news/stories/2015/january/ransomware-on-the-rise/ransomware-on-the-rise</guid>
+            <link>https://www.fbi.gov/news/stories/2015/january/ransomware-on-the-rise/ransomware-on-the-rise</link>
+            <description>The malware’s use is increasing, but the FBI and partners are working to combat this cyber threat.</description>
+            <author>fbi</author>
+            <category>Omaha Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Top Story</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Cyber Crimes</category>
+            <pubDate>Tue, 20 Jan 2015 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>FBI Seeking Tech Experts to Become Cyber Special Agents</title>
+            <guid>https://www.fbi.gov/news/stories/2014/december/fbi-seeking-tech-experts-to-become-cyber-special-agents/fbi-seeking-tech-experts-to-become-cyber-special-agents</guid>
+            <link>https://www.fbi.gov/news/stories/2014/december/fbi-seeking-tech-experts-to-become-cyber-special-agents/fbi-seeking-tech-experts-to-become-cyber-special-agents</link>
+            <description>The FBI is recruiting the best technical talent to join the ranks of cyber special agents. </description>
+            <author>fbi</author>
+            <category>Detroit Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Los Angeles Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Philadelphia Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>San Diego Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Recruiting/Diversity</category>
+            <category>Recruiting/Diversity Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Technology Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Omaha Top Stories</category>
+            <category>Top Story</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>St. Louis Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Technology</category>
+            <pubDate>Mon, 29 Dec 2014 09:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Cyber Crime: Purchase Order Scam Leaves a Trail of Victims</title>
+            <guid>https://www.fbi.gov/news/stories/2014/october/cyber-crime-purchase-order-scam-leaves-a-trail-of-victims/cyber-crime-purchase-order-scam-leaves-a-trail-of-victims</guid>
+            <link>https://www.fbi.gov/news/stories/2014/october/cyber-crime-purchase-order-scam-leaves-a-trail-of-victims/cyber-crime-purchase-order-scam-leaves-a-trail-of-victims</link>
+            <description>African cyber criminals have devised a scheme that has cost U.S. retailers millions.</description>
+            <author>fbi</author>
+            <category>Charlotte Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Top Story</category>
+            <category>San Antonio Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>El Paso Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Field Cases Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Houston Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Milwaukee Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Jacksonville Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Cyber Crimes</category>
+            <category>Richmond Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Field Cases</category>
+            <category>Mobile Top Stories</category>
+            <pubDate>Mon, 27 Oct 2014 07:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Cyber Security: Task Force Takes ‘Whole Government’ Approach</title>
+            <guid>https://www.fbi.gov/news/stories/2014/october/cyber-security-task-force-takes-whole-government-approach/cyber-security-task-force-takes-whole-government-approach</guid>
+            <link>https://www.fbi.gov/news/stories/2014/october/cyber-security-task-force-takes-whole-government-approach/cyber-security-task-force-takes-whole-government-approach</link>
+            <description>A look at how the National Cyber Investigative Joint Task Force confronts the cyber threat.</description>
+            <author>fbi</author>
+            <category>Houston Top Stories</category>
+            <category>Portland Top Stories</category>
+            <category>Indianapolis Top Stories</category>
+            <category>Salt Lake City Top Stories</category>
+            <category>Kansas City Top Stories</category>
+            <category>San Juan Top Stories</category>
+            <category>Birmingham Top Stories</category>
+            <category>Denver Top Stories</category>
+            <category>Seattle Top Stories</category>
+            <category>Atlanta Top Stories</category>
+            <category>Detroit Top Stories</category>
+            <category>Oklahoma City Top Stories</category>
+            <category>Miami Top Stories</category>
+            <category>Cleveland Top Stories</category>
+            <category>Partnerships Stories</category>
+            <category>Cyber Crimes Stories</category>
+            <category>Baltimore Top Stories</category>
+            <category>San Antonio Top Stories</category>
+            <category>Mobile Top Stories</category>
+            <category>Top Story</category>
+            <category>Jacksonville Top Stories</category>
+            <category>New York Top Stories</category>
+            <category>New Orleans Top Stories</category>
+            <category>Tampa Top Stories</category>
+            <category>Norfolk Top Stories</category>
+            <category>Partnerships</category>
+            <category>Cyber Crimes</category>
+            <category>El Paso Top Stories</category>
+            <category>Jackson Top Stories</category>
+            <category>New Haven Top Stories</category>
+            <category>Springfield Top Stories</category>
+            <category>Milwaukee Top Stories</category>
+            <category>Cincinnati Top Stories</category>
+            <category>San Francisco Top Stories</category>
+            <category>Washington Field Office Top Stories</category>
+            <category>Louisville Top Stories</category>
+            <category>Knoxville Top Stories</category>
+            <category>Charlotte Top Stories</category>
+            <category>Omaha Top Stories</category>
+            <category>Little Rock Top Stories</category>
+            <category>Las Vegas Top Stories</category>
+            <category>Honolulu Top Stories</category>
+            <category>Chicago Top Stories</category>
+            <category>Richmond Top Stories</category>
+            <category>Dallas Top Stories</category>
+            <category>Newark Top Stories</category>
+            <category>Sacramento Top Stories</category>
+            <category>Anchorage Top Stories</category>
+            <category>Boston Top Stories</category>
+            <category>Buffalo Top Stories</category>
+            <category>Albany Top Stories</category>
+            <category>Columbia Top Stories</category>
+            <category>Phoenix Top Stories</category>
+            <category>Albuquerque Top Stories</category>
+            <category>Pittsburgh Top Stories</category>
+            <category>Memphis Top Stories</category>
+            <pubDate>Mon, 20 Oct 2014 07:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   # Gem dependencies
   s.add_runtime_dependency 'stud', '>= 0.0.22', '< 0.1.0'
-  s.add_runtime_dependency 'feedjira', '>= 2.0'
+  s.add_runtime_dependency 'feedjira', '2.0.0'
   s.add_runtime_dependency 'rippersnapper', '>= 0.0.8'
 
   s.add_development_dependency 'logstash-devutils'

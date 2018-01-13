@@ -18,5 +18,10 @@ services:
       http_proxy: ${http_proxy}
       https_proxy: ${https_proxy}
       no_proxy: ${no_proxy}
-    # depends_on:
-    #   - elasticsearch
+    depends_on:
+      - elasticsearch
+
+  elasticsearch:
+    image: elasticsearch:5.0.0
+    ports:
+      - "9200:9200"

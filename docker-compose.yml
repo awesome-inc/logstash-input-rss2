@@ -1,0 +1,22 @@
+version: '3'
+services:
+  logstash:
+    build:
+      context: ./
+      args:
+        http_proxy: ${http_proxy}
+        https_proxy: ${https_proxy}
+        no_proxy: ${no_proxy}
+    # volumes:
+    #   - ./logstash/config:/etc/logstash/conf.d
+    environment:
+      http_proxy: ${http_proxy}
+      no_proxy: ${no_proxy}
+    ports:
+      - "5044:5044"
+    environment:
+      http_proxy: ${http_proxy}
+      https_proxy: ${https_proxy}
+      no_proxy: ${no_proxy}
+    # depends_on:
+    #   - elasticsearch

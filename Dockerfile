@@ -1,4 +1,4 @@
-FROM logstash:5.0.0
+FROM docker.elastic.co/logstash/logstash:5.5.0
 
 # Add your logstash plugins setup here
 # Copy source files

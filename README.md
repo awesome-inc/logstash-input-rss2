@@ -17,7 +17,7 @@ Need help? Try #logstash on freenode IRC or the https://discuss.elastic.co/c/log
 
 ## Developing
 
-### 1. Plugin Developement and Testing
+### 1. Plugin Development and Testing
 
 #### Code
 
@@ -52,7 +52,7 @@ bundle exec rspec
 - Edit Logstash `Gemfile` and add the local plugin path, for example:
 
 ```ruby
-gem "logstash-input-rss2", :path => "/your/local/logstash-filter-awesome"
+gem 'logstash-input-rss2', path: 'your/local/logstash-input-rss2'
 ```
 
 - Install plugin

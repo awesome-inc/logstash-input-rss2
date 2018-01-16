@@ -5,18 +5,16 @@ FROM ${DOCKER_BASE} AS build-env
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
-COPY Gemfile* *.gemspec ./
+COPY Gemfile logstash-input-rss2.gemspec ./
 
 RUN bundle install && bundle package
 
 COPY . /usr/src/app
 
-RUN rake spec
+#RUN rake spec
 RUN gem build logstash-input-rss2.gemspec
 
 FROM docker.elastic.co/logstash/logstash:5.5.0
-
-COPY *.sh /
 
 ARG VERSION=0.1.0
 ENV VERSION ${VERSION}
@@ -32,7 +30,5 @@ COPY log4j2.properties /etc/logstash/log4j2.properties
 COPY config/ /etc/logstash/conf.d
 
 EXPOSE 5044
-
-ENTRYPOINT ["/docker-entrypoint.sh"]
 
 CMD ["-f", "/etc/logstash/conf.d"]

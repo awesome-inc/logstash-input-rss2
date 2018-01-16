@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   # Gem dependencies
   s.add_runtime_dependency 'feedjira', '~> 2.1', '>= 2.1.3'
   s.add_runtime_dependency 'rippersnapper', '~> 0.0', '>= 0.0.9'
-  s.add_runtime_dependency 'stud', '>= 0.0.23', '< 0.1.0'
+  s.add_runtime_dependency 'stud', '~> 0.0.22', '< 0.1.0'
 
   s.add_development_dependency 'logstash-codec-plain', '~> 3.0', '>= 3.0.6'
   s.add_development_dependency 'logstash-core-plugin-api', '~> 2.1', '>= 2.1.28'

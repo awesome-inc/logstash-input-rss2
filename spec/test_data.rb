@@ -1,29 +1,27 @@
-RSSParser.init
 
-module TestData
+# test data helpers
+class TestData
+  RSSParser.init
+  @@feeds = {}
+  @@entries = {}
 
-  FEED_XML = Hash.new()
-  FEED_ITEMS = Hash.new()
+  def self.feed_xml(key)
+    return @@feeds[key] if @@feeds.key?(key)
 
-  def TestData.feed_xml(key)
-      return FEED_XML[key] if FEED_XML.key?(key) 
-
-      filename = "#{File.dirname(__FILE__)}/sample_feeds/#{key}.xml"
-      xml = File.read(filename)
-      #puts "  Read test feed '#{key}'."
-      FEED_XML.store(key, xml)
-
-      return xml
+    filename = "#{File.dirname(__FILE__)}/sample_feeds/#{key}.xml"
+    xml = File.read(filename)
+    puts "  Read test feed '#{key}'."
+    @@feeds[key] = xml
+    xml
   end
 
-  def TestData.feed_items(key)
-      return FEED_ITEMS[key] if FEED_ITEMS.key?(key) 
+  def self.feed_items(key)
+    return @@entries[key] if @@entries.key?(key)
 
-      xml = feed_xml(key)
-      items = RSSParser.parse xml
-      #puts "  Parsed test feed '#{key}' (#{items.length} items)."
-      FEED_ITEMS.store(key, items)
-
-      return items
+    xml = feed_xml(key)
+    items = RSSParser.parse xml
+    puts "  Parsed test feed '#{key}' (#{items.length} items)."
+    @@entries[key] = items
+    items
   end
 end

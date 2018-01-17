@@ -83,7 +83,7 @@ describe RSSParser do
       expect(item.published).to be_the_same_time_as Time.utc(2016,05,12,16,20,0)
       expect(item.updated).to be_the_same_time_as Time.utc(2016,05,12,16,20,32)
       expect(item.url).to eq 'http://www.heise.de/security/meldung/Trend-Micro-Pawn-Storm-hat-nach-dem-Bundestag-nun-die-CDU-im-Visier-3207508.html?wt_mc=rss.security.beitrag.atom'
-      expect(item.summary).to eq "Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugef\u00C3\u00BCgt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. "
+      expect(item.summary).to eq "Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugefügt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. "
       #expect(item.content).to not_be nil or summary
     end
   end
@@ -125,7 +125,7 @@ describe RSSParser do
     end
 
     it 'should parse <emm:entity> (unique)' do
-      expect(items[0].entities).to match_array 'Dilma Rousseff', 'Humberto Costa', 'Renan Calheiros', 'Michel Temer', 'Romero Juca', 'Democratic Movement']
+      expect(items[0].entities).to match_array ['Dilma Rousseff', 'Humberto Costa', 'Renan Calheiros', 'Michel Temer', 'Romero Juca', 'Democratic Movement']
       expect(items[1].entities).to match_array ['David Cameron', 'John Kerry', 'Allan Bell']
     end
   end

@@ -21,10 +21,10 @@ module LogStash
       def run(queue)
         @run_thread = Thread.current
         until stop?
-          start = Time.now
           @logger.info? && @logger.info('Polling RSS', url: @url)
-          response = Faraday.get @url
-          handle_response(response, queue)
+          start = Time.now
+          response = RSSParser.fetch @url
+          handle_response response, queue
           duration = Time.now - start
           @logger.info? && @logger.info('Command completed', command: @command, duration: duration)
 
@@ -38,11 +38,16 @@ module LogStash
         end
       end
 
+      def stop
+        Stud.stop!(@run_thread) if @run_thread
+      end
+
+      #private
+
       def handle_response(response, queue)
         items = RSSParser.parse response.body
         items.each do |item|
           @codec.decode(item.content) do |event|
-            event.set('type', @type)
             item.each do |key, value|
               event.set(key, value) unless value.nil?
             end
@@ -50,10 +55,6 @@ module LogStash
             queue << event
           end
         end
-      end
-
-      def stop
-        Stud.stop!(@run_thread) if @run_thread
       end
     end
   end

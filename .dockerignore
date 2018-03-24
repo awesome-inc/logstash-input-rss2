@@ -1,6 +1,7 @@
 .git/*
 Dockerfile*
 .github/*
+Gemfile.lock
 *.gem
 docker-compose.*
 .bundle/*

@@ -36,75 +36,47 @@ class Entry
   # host for geoip
   attr_reader :host
 
-  def self.canonical_domain(link)
-    url = Rippersnapper.parse(link)
-    if (url.subdomain.nil? || url.subdomain.empty? || "www".casecmp(url.subdomain) == 0)
-      return url.domain
-    else
-      subdomain = url.subdomain
-      subdomain.slice! 'www.'
-      return "#{url.domain}#{subdomain}"
-    end
-  end
-
-  def self.trim(val)
-    val.nil? ? val : val.strip.chomp
-  end
-
-  def initialize(e)
-    # feedjira uses entry_id ||= url
-    # but we don't want to fallback on urls as id
-    #@id = e.id
-    @domain = self.class.canonical_domain(e.url)
-    digest = Digest::MD5.hexdigest("#{e.published}_#{e.title}_#{e.url}")
+  def initialize(entry)
+    @domain = canonical_domain(entry.url)
+    digest = Digest::MD5.hexdigest "#{entry.published}_#{entry.title}_#{entry.url}"
     @id = "#{domain}-#{digest}"
 
-    @entry_id = e.entry_id.nil? || e.entry_id.empty? ? id : e.entry_id
-    @url = e.url
-    @published = e.published.iso8601.to_s unless e.published.nil?
+    @entry_id = empty?(entry.entry_id) ? @id : entry.entry_id
+    @url = entry.url
+    @published = entry.published.iso8601.to_s unless entry.published.nil?
+    @updated = entry.updated.iso8601.to_s if entry.respond_to?('updated') && !entry.updated.nil?
 
-    @updated = e.updated.iso8601.to_s if e.respond_to?('updated') && !e.updated.nil?
+    @title = entry.title.encode('UTF-8') unless entry.title.nil?
+    @author = trim(entry.author) || from(entry, :itunes_author)
 
-    @title = e.title.encode('UTF-8') unless e.title.nil?
-    @author = self.class.trim(e.author)
-    if @author.nil? e.respond_to?('itunes_author')
-      @author = self.class.trim(e.itunes_author)
-    end
+    @summary = entry.summary.encode('UTF-8') unless empty? entry.summary
+    @summary ||= from(entry, :itunes_summary) || @title
 
-    @summary = e.summary.encode('UTF-8') unless e.summary.nil? || e.summary.empty?
-    if @summary.nil? && e.respond_to?('itunes_summary')
-      @summary = e.itunes_summary
-    end
-    @summary = @title if @summary.nil?
-
-    @content = (e.content.nil? ? @summary : e.content.encode('UTF-8'))
+    @content = entry.content.nil? ? @summary : entry.content.encode('UTF-8')
 
     # attached media elements
-    if e.respond_to?('enclosure_url')
-      @enclosure_url = e.enclosure_url
-      @enclosure_type = e.enclosure_type
-      @enclosure_length = e.enclosure_length
+    if entry.respond_to?('enclosure_url')
+      @enclosure_url = entry.enclosure_url
+      @enclosure_type = entry.enclosure_type
+      @enclosure_length = entry.enclosure_length
     else
-      @enclosure_url = e.image
+      @enclosure_url = entry.image
     end
 
-    @comments = e.comments
+    @comments = entry.comments
 
-    if e.respond_to?('categories') && !e.categories.nil?
-      @categories = e.categories.map { |category| self.class.trim(category) }.uniq
-    end
+    has_cat = entry.respond_to?('categories') && !entry.categories.nil?
+    @categories = entry.categories.map { |category| trim(category) }.uniq if has_cat
 
-    @language = e.language
+    @language = entry.language
 
-    point = Point.new(e.point)
+    point = Point.new(entry.point)
     @longitude = point.longitude
     @latitude = point.latitude
 
-    unless e.entities.nil? || e.entities.empty?
-      @entities = e.entities.reject { |e| e.nil? || e.empty? }
-    end
+    @entities = entry.entities.reject { |e| empty? e } unless empty? entry.entities
 
-    @host = URI(@url).host unless @url.nil? || @url.empty?
+    @host = URI(@url).host unless empty? @url
   end
 
   def to_s
@@ -113,5 +85,30 @@ class Entry
       lines += "#{key}: #{value.to_s}\n" unless value.nil?
     end
     lines
+  end
+
+  private
+
+  def trim(value)
+    value.nil? ? value : value.strip.chomp
+  end
+
+  def from(entry, field)
+    a = field.to_s
+    return nil unless entry.respond_to? a
+    trim entry.send(a)
+  end
+
+  def empty?(value)
+    value.nil? || value.empty?
+  end
+
+  def canonical_domain(link)
+    url = Rippersnapper.parse(link)
+    no_subdomain = empty?(url.subdomain) || 'www'.casecmp(url.subdomain).zero?
+    return url.domain if no_subdomain
+    subdomain = url.subdomain
+    subdomain.slice! 'www.'
+    "#{url.domain}#{subdomain}"
   end
 end

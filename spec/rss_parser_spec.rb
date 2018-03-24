@@ -5,10 +5,10 @@ describe RSSParser do
   describe '.parse(rss2)' do
     # cf.: RSS2 specification: https://validator.w3.org/feed/docs/rss2.html#ltcategorygtSubelementOfLtitemgt
 
-    items = TestData.feed_items('rss2')
+    items = TestData.feed_items 'rss2'
     item = items.first
 
-    it "should parse <item> as 'entry'" do
+    it 'should parse <item> as entry' do
       expect(items.length).to eq 9
       expect(items).to all satisfy { |item| item.kind_of? Entry }
     end
@@ -28,7 +28,7 @@ describe RSSParser do
       expect(item.summary).to eq "<b>FeedForAll </b>helps Restaurant's communicate with customers. Let your customers know the latest specials or events.<br>\n<br>\nRSS feed uses include:<br>\n<i><font color=\"#FF0000\">Daily Specials <br>\nEntertainment <br>\nCalendar of Events </i></font>"
     end
 
-    it "should parse <pubDate> as 'published'" do
+    it 'should parse <pubDate> as published' do
       expect(item.published).to be_the_same_time_as Time.utc(2004, 10, 19, 15, 9, 11)
     end
 
@@ -36,7 +36,7 @@ describe RSSParser do
       expect(item.categories).to match_array [ 'Computers/Software/Internet/Site Management/Content Management' ]
     end
 
-    it "should parse 'domain' from <link>" do
+    it 'should parse domain from <link>' do
       # TODO: parse directly from <source> if available
       expect(item.url).to eq 'http://www.feedforall.com/restaurant.htm'
       expect(item.domain).to eq 'feedforall'
@@ -73,7 +73,7 @@ describe RSSParser do
   end
 
   describe '.parse(heise-atom)' do
-    items = TestData.feed_items('heise')
+    items = TestData.feed_items 'heise'
     item = items.first
 
     it 'should parse <updated> (atom)' do
@@ -83,13 +83,13 @@ describe RSSParser do
       expect(item.published).to be_the_same_time_as Time.utc(2016,05,12,16,20,0)
       expect(item.updated).to be_the_same_time_as Time.utc(2016,05,12,16,20,32)
       expect(item.url).to eq 'http://www.heise.de/security/meldung/Trend-Micro-Pawn-Storm-hat-nach-dem-Bundestag-nun-die-CDU-im-Visier-3207508.html?wt_mc=rss.security.beitrag.atom'
-      expect(item.summary).to eq "Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugefügt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. "
+      expect(item.summary).to eq 'Nachdem vermutlich russische Hacker der IT des deutschen Parlaments schweren Schaden zugefügt hatten, nehmen sie nun offenbar auch andere politische Player ins Fadenkreuz. '
       #expect(item.content).to not_be nil or summary
     end
   end
 
   describe '.parse(emm_small)' do
-    items = TestData.feed_items('emm_small')
+    items = TestData.feed_items 'emm_small'
 
     it 'should parse <pubDate>' do
       expect(items[0].published).to be_the_same_time_as Time.utc(2016, 5, 12, 10, 59, 0)
@@ -97,15 +97,15 @@ describe RSSParser do
 
     it 'should parse <category> (unique)' do
       expect(items[0].categories).to match_array ['FightagainstFraud']
-      expect(items[1].categories).to match_array ['TaxHaven', 'FightagainstFraud', 'TAXUD', 'FinancialEconomicCrime']
+      expect(items[1].categories).to match_array %w[TaxHaven FightagainstFraud TAXUD FinancialEconomicCrime]
     end
 
-    it "should parse <guid> as 'entry_id'" do
+    it 'should parse <guid> as entry_id' do
       expect(items[0].entry_id).to eq '680news-1804d9c60271f4a368eabf45c870aa1c'
       expect(items[1].entry_id).to eq 'wafb-0f1d965d94293b2ddc142a162cad055b'
     end
 
-    it "should parse 'domain' from <link>" do
+    it 'should parse domain from <link>' do
       # TODO: parse directly from <source> if available
       expect(items[0].url).to eq 'http://www.680news.com/2016/05/12/the-latest-brazils-senate-impeaches-president-rousseff/'
       expect(items[0].domain).to eq '680news'
@@ -131,7 +131,7 @@ describe RSSParser do
   end
 
   describe '.parse(presseportal)' do
-    items = TestData.feed_items('presseportal')
+    items = TestData.feed_items 'presseportal'
 
     it 'should parse entries' do
       expect(items.length).to eq 15
@@ -143,7 +143,7 @@ describe RSSParser do
   end
 
   describe '.parse(threatpost)' do
-    items = TestData.feed_items('threatpost')
+    items = TestData.feed_items 'threatpost'
 
     it 'should parse entries' do
       expect(items.length).to eq 10
@@ -159,7 +159,7 @@ describe RSSParser do
   end
 
   describe '.parse(kaspersky)' do
-    items = TestData.feed_items('kaspersky')
+    items = TestData.feed_items 'kaspersky'
 
     it 'should parse entries' do
       expect(items.length).to eq 10
@@ -175,7 +175,7 @@ describe RSSParser do
   end
 
   describe '.parse(fbi)' do
-    items = TestData.feed_items('fbi')
+    items = TestData.feed_items 'fbi'
 
     it 'should parse entries' do
       expect(items.length).to eq 15
@@ -193,7 +193,7 @@ describe RSSParser do
 
   describe '.parse attached media (itunes, etc.)' do
     it 'should parse <enclosure>' do
-      items = TestData.feed_items('heise_architektour')
+      items = TestData.feed_items 'heise_architektour'
       expect(items.length).to eq 54
       expect(items[0].enclosure_url).to eq 'http://www.heise.de/developer/downloads/06/1/7/9/8/6/9/3/softwarearchitektour_53_iot.mp3'
       expect(items[0].enclosure_length).to eq '54415472'
@@ -201,7 +201,7 @@ describe RSSParser do
     end
 
     it 'should parse <itunes:xxx>' do
-      items = TestData.feed_items('itunes')
+      items = TestData.feed_items 'itunes'
       expect(items.length).to eq 3
 
       expect(items[0].author).to eq 'John Doe'
@@ -214,7 +214,7 @@ describe RSSParser do
   end
 
   describe '.parse(sciencedaily)' do
-    items = TestData.feed_items('sciencedaily')
+    items = TestData.feed_items 'sciencedaily'
 
     it 'should parse entries' do
       expect(items.length).to eq 4
@@ -226,7 +226,7 @@ describe RSSParser do
   end
 
   describe '.parse(nasa360)' do
-    items = TestData.feed_items('nasa360')
+    items = TestData.feed_items 'nasa360'
 
     it 'should parse entries' do
       expect(items.length).to eq 10
@@ -239,7 +239,7 @@ describe RSSParser do
   end
 
   describe '.parse(google)' do
-    items = TestData.feed_items('google')
+    items = TestData.feed_items 'google'
 
     it 'should parse entries' do
       expect(items.length).to eq 5
@@ -254,7 +254,7 @@ describe RSSParser do
   end
 
   describe 'timestamps' do
-    items = TestData.feed_items('heise')
+    items = TestData.feed_items 'heise'
     item = items.first
 
     it 'should be parsed as string in ISO-8601' do
@@ -266,11 +266,11 @@ describe RSSParser do
   end
 
   describe 'host' do
-    items = TestData.feed_items('heise')
+    items = TestData.feed_items 'heise'
     item = items.first
 
     it 'should be parsed from url for geoip' do
-      expect(item.host).to be_a(String)
+      expect(item.host).to be_a String
       expect(item.host).to eq 'www.heise.de'
     end
   end

@@ -1,23 +1,24 @@
-require "digest/md5"
-require "rippersnapper"
+require 'digest/md5'
+require 'rippersnapper'
 
-require_relative "entity"
-require_relative "point"
+require_relative 'entity'
+require_relative 'point'
 
+# An RSS Feed entry
 class Entry
   include Feedjira::FeedEntryUtilities
 
   attr_reader :id
-  attr_reader :entry_id 
-  attr_reader :url 
-  attr_reader :published 
-  attr_reader :updated 
-  attr_reader :title 
-  attr_reader :author 
-  attr_reader :summary 
-  attr_reader :comments 
+  attr_reader :entry_id
+  attr_reader :url
+  attr_reader :published
+  attr_reader :updated
+  attr_reader :title
+  attr_reader :author
+  attr_reader :summary
+  attr_reader :comments
 
-  attr_reader :categories 
+  attr_reader :categories
 
   # content
   attr_reader :content
@@ -26,11 +27,11 @@ class Entry
   attr_reader :enclosure_length
 
   # rss extensions (EMM)
-  attr_reader :language 
+  attr_reader :language
   attr_reader :domain
   attr_reader :longitude
   attr_reader :latitude
-  attr_reader :entities 
+  attr_reader :entities
 
   # host for geoip
   attr_reader :host
@@ -41,46 +42,42 @@ class Entry
       return url.domain
     else
       subdomain = url.subdomain
-      subdomain.slice! "www."
+      subdomain.slice! 'www.'
       return "#{url.domain}#{subdomain}"
     end
   end
 
   def self.trim(val)
-    unless val.nil? || val.empty?
-      return val.rstrip.chomp
-    else
-      return val
-    end
+    val.nil? ? val : val.strip.chomp
   end
 
   def initialize(e)
     # feedjira uses entry_id ||= url
     # but we don't want to fallback on urls as id
     #@id = e.id
-    @domain = self.class.canonical_domain(e.url)      
+    @domain = self.class.canonical_domain(e.url)
     digest = Digest::MD5.hexdigest("#{e.published}_#{e.title}_#{e.url}")
     @id = "#{domain}-#{digest}"
 
-    @entry_id = (e.entry_id.nil? || e.entry_id.empty?) ? id : e.entry_id
+    @entry_id = e.entry_id.nil? || e.entry_id.empty? ? id : e.entry_id
     @url = e.url
     @published = e.published.iso8601.to_s unless e.published.nil?
 
     @updated = e.updated.iso8601.to_s if e.respond_to?('updated') && !e.updated.nil?
 
-    @title = e.title.encode("UTF-8") unless e.title.nil?
+    @title = e.title.encode('UTF-8') unless e.title.nil?
     @author = self.class.trim(e.author)
-    if @author.nil? && e.respond_to?('itunes_author')
+    if @author.nil? e.respond_to?('itunes_author')
       @author = self.class.trim(e.itunes_author)
     end
 
-    @summary = e.summary.encode("UTF-8") unless e.summary.nil? || e.summary.empty?
+    @summary = e.summary.encode('UTF-8') unless e.summary.nil? || e.summary.empty?
     if @summary.nil? && e.respond_to?('itunes_summary')
       @summary = e.itunes_summary
     end
     @summary = @title if @summary.nil?
 
-    @content = (e.content.nil? ? @summary : e.content.encode("UTF-8"))
+    @content = (e.content.nil? ? @summary : e.content.encode('UTF-8'))
 
     # attached media elements
     if e.respond_to?('enclosure_url')
@@ -111,11 +108,10 @@ class Entry
   end
 
   def to_s
-    lines = ""
-    each do |key,value|
+    lines = ''
+    each do |key, value|
       lines += "#{key}: #{value.to_s}\n" unless value.nil?
     end
-    return lines
+    lines
   end
-
 end

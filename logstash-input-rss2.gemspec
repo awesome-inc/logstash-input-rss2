@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'logstash-input-rss2'
-  s.version         = '0.1.0'
+  s.version         = ENV.fetch('ELK_VERSION') { '0.1.0' }
   s.licenses        = ['Apache-2.0']
   s.summary         = 'Extended RSS/Atom input plugin for Logstash'
   s.description     = 'This gem is a Logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/logstash-plugin install gemname. This gem is not a stand-alone program'

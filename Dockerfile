@@ -9,16 +9,16 @@ RUN bundle install --without=development
 
 COPY . ./
 
+ARG ELK_VERSION
+ENV ELK_VERSION $ELK_VERSION
 #RUN rake spec
 RUN gem build logstash-input-rss2.gemspec
 
-FROM docker.elastic.co/logstash/logstash-oss:6.2.3
+ARG ELK_VERSION
+FROM docker.elastic.co/logstash/logstash-oss:${ELK_VERSION}}
 
-ARG VERSION=0.1.0
-ENV VERSION ${VERSION}
-
-COPY --from=build-env /usr/src/app/logstash-input-rss2-${VERSION}.gem /plugins/
-#COPY --from=build-env /usr/src/app/vendor/cache/* /plugins/vendor/cache/
-RUN bin/logstash-plugin install --no-verify /plugins/logstash-input-rss2-${VERSION}.gem
+ARG ELK_VERSION
+COPY --from=build-env /usr/src/app/logstash-input-rss2-${ELK_VERSION}.gem /plugins/
+RUN bin/logstash-plugin install --no-verify /plugins/logstash-input-rss2-${ELK_VERSION}.gem
 
 COPY pipeline/ /usr/share/logstash/pipeline/

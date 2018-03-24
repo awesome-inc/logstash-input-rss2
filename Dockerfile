@@ -15,7 +15,7 @@ COPY . ./
 RUN rake spec
 RUN gem build logstash-input-rss2.gemspec
 
-FROM docker.elastic.co/logstash/logstash:5.5.0
+FROM docker.elastic.co/logstash/logstash-oss:6.2.3
 
 ARG VERSION=0.1.0
 ENV VERSION ${VERSION}
@@ -24,9 +24,4 @@ COPY --from=build-env /usr/src/app/logstash-input-rss2-${VERSION}.gem /plugins
 COPY --from=build-env /usr/src/app/vendor/cache/* /plugins/vendor/cache/
 RUN bin/logstash-plugin install /plugins/logstash-input-rss2-${VERSION}.gem
 
-COPY log4j2.properties /etc/logstash/log4j2.properties
-COPY config/ /etc/logstash/conf.d
-
-EXPOSE 5044
-
-CMD ["-f", "/etc/logstash/conf.d"]
+COPY pipeline/ /usr/share/logstash/pipeline/

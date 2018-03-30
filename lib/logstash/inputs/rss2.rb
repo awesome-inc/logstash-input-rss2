@@ -45,6 +45,11 @@ module LogStash
       #private
 
       def handle_response(response, queue)
+        unless response.success?
+          @logger.warn('Could not fetch RSS feed', response: response)
+          return
+        end
+
         items = RSSParser.parse response.body
         items.each do |item|
           @codec.decode(item.content) do |event|

@@ -29,10 +29,17 @@ class RSSParser
   end
 
   def self.fetch(url, headers = DEFAULT_HEADERS)
-    Faraday.get url, headers
-  end
+    conn = Faraday.new(url, ssl: { verify: false }) do |b|
+      b.use FaradayMiddleware::FollowRedirects
+      b.adapter :net_http
+    end
 
-  private
+    response = conn.get do |req|
+      req.headers = headers
+    end
+
+    response
+  end
 
   # fetch like chrome, e.g.
   # curl 'http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false'
@@ -53,6 +60,6 @@ class RSSParser
     'Accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Cache-Control' => 'max-age=0',
     'Connection' => 'keep-alive'
-      #--compressed
+    #--compressed
   }.freeze
 end
